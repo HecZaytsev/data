@@ -1,0 +1,1304 @@
+Price_euros,Company,Ram,Memory,Cpu,Gpu,Inches,Weight
+1339.69,Apple,8GB,128GB SSD,Intel Core i5 2.3GHz,Intel Iris Plus Graphics 640,13.3,1.37kg
+898.94,Apple,8GB,128GB Flash Storage,Intel Core i5 1.8GHz,Intel HD Graphics 6000,13.3,1.34kg
+575.00,HP,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.86kg
+2537.45,Apple,16GB,512GB SSD,Intel Core i7 2.7GHz,AMD Radeon Pro 455,15.4,1.83kg
+1803.60,Apple,8GB,256GB SSD,Intel Core i5 3.1GHz,Intel Iris Plus Graphics 650,13.3,1.37kg
+400.00,Acer,4GB,500GB HDD,AMD A9-Series 9420 3GHz,AMD Radeon R5,15.6,2.1kg
+2139.97,Apple,16GB,256GB Flash Storage,Intel Core i7 2.2GHz,Intel Iris Pro Graphics,15.4,2.04kg
+1158.70,Apple,8GB,256GB Flash Storage,Intel Core i5 1.8GHz,Intel HD Graphics 6000,13.3,1.34kg
+1495.00,Asus,16GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce MX150,14,1.3kg
+770.00,Acer,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,14,1.6kg
+393.90,HP,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.86kg
+344.99,HP,4GB,500GB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,1.86kg
+2439.97,Apple,16GB,256GB SSD,Intel Core i7 2.8GHz,AMD Radeon Pro 555,15.4,1.83kg
+498.90,Dell,4GB,256GB SSD,Intel Core i3 6006U 2GHz,AMD Radeon R5 M430,15.6,2.2kg
+1262.40,Apple,8GB,256GB SSD,Intel Core M m3 1.2GHz,Intel HD Graphics 615,12,0.92kg
+1518.55,Apple,8GB,256GB SSD,Intel Core i5 2.3GHz,Intel Iris Plus Graphics 640,13.3,1.37kg
+745.00,Dell,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,AMD Radeon R5 M430,15.6,2.2kg
+2858.00,Apple,16GB,512GB SSD,Intel Core i7 2.9GHz,AMD Radeon Pro 560,15.4,1.83kg
+499.00,Lenovo,8GB,1TB HDD,Intel Core i3 7100U 2.4GHz,Nvidia GeForce 940MX,15.6,2.2kg
+979.00,Dell,8GB,128GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.22kg
+191.90,Asus,2GB,32GB Flash Storage,Intel Atom x5-Z8350 1.44GHz,Intel HD Graphics 400,11.6,0.98kg
+999.00,Lenovo,8GB,128GB SSD +  1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.5kg
+258.00,HP,4GB,500GB HDD,AMD E-Series E2-9000e 1.5GHz,AMD Radeon R2,15.6,1.86kg
+819.00,Dell,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.62kg
+659.00,HP,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Intel HD Graphics 620,15.6,1.91kg
+418.64,Dell,4GB,1TB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2.3kg
+1099.00,Apple,8GB,128GB Flash Storage,Intel Core i5 1.6GHz,Intel HD Graphics 6000,13.3,1.35kg
+800.00,Dell,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,AMD Radeon 530,15.6,2.2kg
+1298.00,Dell,8GB,256GB SSD +  256GB SSD,Intel Core i7 8650U 1.9GHz,Intel UHD Graphics 620,15.6,1.88kg
+896.00,HP,8GB,1TB HDD,Intel Core i5 8250U 1.6GHz,Nvidia GeForce 930MX,17.3,2.5kg
+244.99,Chuwi,4GB,64GB Flash Storage,Intel Atom x5-Z8300 1.44GHz,Intel HD Graphics,15.6,1.89kg
+199.00,Asus,2GB,32GB Flash Storage,AMD E-Series E2-6110 1.5GHz,AMD Radeon R2,14,1.65kg
+439.00,HP,4GB,500GB HDD,AMD A6-Series 9220 2.5GHz,AMD Radeon 530,17.3,2.71kg
+1869.00,Dell,16GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.3,1.2kg
+998.00,Apple,8GB,256GB Flash Storage,Intel Core i5 1.6GHz,Intel HD Graphics 6000,13.3,1.35kg
+249.00,Lenovo,4GB,64GB Flash Storage,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,14,1.44kg
+367.00,Acer,4GB,1TB HDD,Intel Core i3 7130U 2.7GHz,Intel HD Graphics 620,15.6,2.1kg
+979.00,Dell,8GB,128GB SSD +  1TB HDD,Intel Core i5 8250U 1.6GHz,AMD Radeon 530,17.3,2.8kg
+488.69,HP,4GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.86kg
+879.00,HP,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Nvidia GeForce 930MX,15.6,2.1kg
+389.00,Asus,4GB,1TB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 620,15.6,2kg
+1499.00,Dell,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,15.6,2.65kg
+522.99,Asus,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 940MX,15.6,2.3kg
+682.00,Acer,4GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,15.6,2.2kg
+999.00,Dell,12GB,1TB HDD,Intel Core i5 8250U 1.6GHz,Nvidia GeForce 150MX,17.3,2.77kg
+1419.00,Apple,8GB,256GB SSD,Intel Core i5 2.0GHz,Intel Iris Graphics 540,13.3,1.37kg
+369.00,Lenovo,4GB,128GB SSD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2.2kg
+1299.00,Asus,8GB,256GB SSD +  1TB HDD,AMD Ryzen 1700 3GHz,AMD Radeon RX 580,17.3,3.2kg
+639.00,Dell,4GB,256GB SSD,Intel Core i5 7200U 2.5GHz,AMD Radeon R5 M430,15.6,2.3kg
+466.00,Asus,4GB,1TB HDD,Intel Pentium Quad Core N4200 1.1GHz,Nvidia GeForce 920MX,17.3,2.8kg
+319.00,Lenovo,4GB,64GB Flash Storage,Intel Atom x5-Z8550 1.44GHz,Intel HD Graphics 400,10.1,0.69kg
+841.00,Acer,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce MX150,15.6,2.2kg
+398.49,HP,4GB,256GB SSD,AMD A6-Series 9220 2.5GHz,AMD Radeon R4 Graphics,15.6,1.86kg
+1103.00,HP,8GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.3,1.49kg
+384.00,Acer,4GB,1TB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.4kg
+767.80,Dell,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,AMD Radeon 520,15.6,2.13kg
+439.00,HP,4GB,128GB SSD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,1.91kg
+586.19,Asus,4GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2kg
+2449.00,MSI,16GB,256GB SSD +  2TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,2.43kg
+415.00,Asus,4GB,256GB SSD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2kg
+1299.00,Dell,16GB,256GB SSD +  2TB HDD,Intel Core i7 8550U 1.8GHz,AMD Radeon 530,17.3,2.8kg
+879.00,Dell,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,14,1.7kg
+599.00,Lenovo,8GB,256GB SSD,Intel Core i3 7130U 2.7GHz,Intel HD Graphics 620,14,1.7kg
+941.00,Asus,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,14,1.4kg
+690.00,HP,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.86kg
+1983.00,Asus,16GB,512GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,1.8kg
+438.69,HP,4GB,500GB HDD,Intel Core i3 6006U 2GHz,AMD Radeon 520,15.6,1.86kg
+229.00,HP,4GB,32GB SSD,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,14,1.44kg
+549.00,Lenovo,4GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.9kg
+949.00,Asus,12GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,17.3,3kg
+1089.00,Microsoft,4GB,128GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.5,1.252kg
+955.00,Dell,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,AMD Radeon 530,13.3,1.4kg
+870.00,Dell,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,AMD Radeon 530,15.6,2.2kg
+1095.00,MSI,8GB,128GB SSD +  1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,17.3,2.7kg
+389.00,Acer,8GB,1TB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,14,2.1kg
+949.00,Asus,8GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.2kg
+519.00,Lenovo,8GB,2TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.2kg
+855.00,Dell,8GB,128GB SSD +  1TB HDD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,15.6,2.02kg
+530.00,Acer,4GB,1TB HDD,Intel Core i3 7130U 2.7GHz,Nvidia GeForce MX130,15.6,2.2kg
+977.00,HP,8GB,128GB SSD +  1TB HDD,Intel Core i5 8250U 1.6GHz,Nvidia GeForce 930MX,17.3,2.5kg
+1096.16,Dell,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,15.6,1.88kg
+1510.00,Apple,8GB,512GB SSD,Intel Core i5 1.3GHz,Intel HD Graphics 615,12,0.92kg
+860.00,HP,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel HD Graphics 620,14,1.63kg
+399.00,Lenovo,4GB,128GB SSD,AMD A6-Series 9220 2.5GHz,AMD R4 Graphics,15.6,2.2kg
+395.00,Acer,4GB,1TB HDD,AMD A9-Series 9420 3GHz,AMD Radeon R5,15.6,2.1kg
+1349.00,Dell,16GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.65kg
+699.00,HP,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce GTX 940MX,15.6,1.83kg
+598.99,HP,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.96kg
+1449.00,Asus,16GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,15.6,2.2kg
+1649.00,Dell,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.3,1.21kg
+699.00,Asus,8GB,1TB HDD,AMD FX 9830P 3GHz,AMD Radeon RX 560,15.6,2.45kg
+689.00,Acer,8GB,1TB HDD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce MX150,15.6,2.2kg
+1197.00,HP,16GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.3,1.49kg
+1195.00,Dell,8GB,256GB SSD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1060,15.6,2.65kg
+1049.00,Asus,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.25kg
+847.00,Acer,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.5kg
+599.90,Dell,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,AMD Radeon R5 M430,15.6,2.2kg
+485.00,Dell,4GB,256GB SSD,Intel Core i3 6006U 2GHz,AMD Radeon R5 M430,15.6,2.2kg
+577.00,Asus,6GB,256GB SSD,Intel Core i3 7100U 2.4GHz,Nvidia GeForce 920M,15.6,2kg
+1249.00,HP,12GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.62kg
+719.00,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,AMD Radeon 530,15.6,1.91kg
+349.00,HP,4GB,500GB HDD,AMD E-Series E2-9000e 1.5GHz,AMD Radeon R2,15.6,2.1kg
+647.00,Dell,8GB,1TB HDD,Intel Core i5 8250U 1.6GHz,AMD Radeon 520,15.6,2.2kg
+1119.00,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce MX150,13.3,1.38kg
+1340.00,Microsoft,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.5,1.252kg
+659.00,HP,6GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 940MX,14,1.58kg
+414.90,Lenovo,4GB,1TB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,1.85kg
+1193.00,Asus,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,14,1.3kg
+1299.00,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.2kg
+1480.00,Lenovo,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.58kg
+1262.00,Asus,16GB,256GB SSD +  1TB HDD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce MX150,15.6,1.5kg
+1379.00,Dell,8GB,256GB SSD,Intel Core i7 7560U 2.4GHz,Intel Iris Plus Graphics 640,13.3,1.23kg
+1399.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.37kg
+722.00,HP,4GB,500GB HDD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,14,1.63kg
+1629.00,Dell,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.21kg
+1398.99,HP,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.26kg
+1084.00,HP,8GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,14,1.63kg
+1130.33,Dell,8GB,256GB SSD +  1TB HDD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce 940MX,15.6,2.16kg
+564.00,Asus,4GB,1TB HDD,Intel Core i3 6006U 2GHz,Nvidia GeForce 920MX,17.3,2kg
+1118.00,Asus,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce 940MX,15.6,1.7kg
+479.00,Acer,6GB,1TB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.1kg
+2241.50,MSI,16GB,256GB SSD +  2TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,15.6,1.8kg
+629.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 940MX,15.6,2.2kg
+1271.00,HP,16GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce 930MX,17.3,2.5kg
+451.00,Acer,4GB,256GB SSD,AMD A9-Series 9420 3GHz,AMD Radeon R5,15.6,2.1kg
+259.00,HP,4GB,500GB HDD,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,15.6,1.86kg
+812.00,HP,8GB,1TB HDD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,14,1.63kg
+277.99,Asus,4GB,64GB SSD,AMD E-Series 6110 1.5GHz,AMD Radeon R2,14,1.65kg
+1396.00,Dell,16GB,256GB SSD +  2TB HDD,Intel Core i7 8550U 1.8GHz,AMD Radeon 530,17.3,2.8kg
+928.00,HP,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,17.3,2.5kg
+638.99,Dell,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,AMD Radeon R7 M445,15.6,2.36kg
+449.00,Dell,4GB,1TB HDD,Intel Core i3 6006U 2GHz,AMD Radeon R5 M430,15.6,2.2kg
+884.00,Acer,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,14,1.6kg
+572.00,Acer,4GB,256GB SSD,Intel Core i3 7130U 2.7GHz,Nvidia GeForce MX130,15.6,2.2kg
+598.00,HP,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,2.05kg
+988.00,HP,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,14,1.63kg
+252.36,Lenovo,4GB,1TB HDD,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,15.6,1.9kg
+938.00,Asus,8GB,128GB SSD +  1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,17.3,3kg
+499.00,Lenovo,4GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 920MX,15.6,2.2kg
+699.00,HP,4GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.32kg
+655.00,Acer,4GB,1TB HDD,Intel Core i3 7130U 2.7GHz,Nvidia GeForce MX130,17.3,3kg
+1116.02,Lenovo,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,AMD Radeon RX 550,14,1.75kg
+869.00,Lenovo,8GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050M,15.6,2.4kg
+602.00,Toshiba,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.1kg
+369.00,HP,4GB,256GB SSD,AMD A6-Series 9220 2.5GHz,AMD Radeon R4 Graphics,15.6,1.86kg
+1099.00,Asus,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,14,1.25kg
+2014.00,HP,8GB,512GB SSD,Intel Core M 6Y75 1.2GHz,Intel HD Graphics 515,12.5,0.97kg
+344.00,Asus,4GB,1TB HDD,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,15.6,2kg
+2029.00,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,2.9kg
+447.00,Acer,4GB,1TB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2.1kg
+1249.26,Dell,16GB,512GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.56kg
+899.00,Dell,8GB,1.0TB Hybrid,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.62kg
+498.00,Lenovo,4GB,128GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.9kg
+1890.00,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,17.3,2.8kg
+1082.00,HP,4GB,256GB SSD,Intel Core i5 7500U 2.7GHz,Intel HD Graphics 620,14,1.48kg
+619.00,HP,6GB,256GB SSD,Intel Core i5 8250U 1.6GHz,AMD Radeon 520,15.6,1.91kg
+629.00,Lenovo,4GB,256GB SSD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,14,1.74kg
+1315.00,Asus,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel HD Graphics 620,13.3,1.1kg
+1049.00,Dell,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,15.6,1.56kg
+447.00,Toshiba,4GB,500GB HDD,Intel Core i3 6006U 2.2GHz,Intel HD Graphics 520,15.6,2.1kg
+403.00,Asus,4GB,1TB HDD,AMD A9-Series 9420 3GHz,AMD Radeon R5 M420,15.6,2.03kg
+805.00,Acer,4GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Nvidia GeForce MX150,17.3,3kg
+728.00,Dell,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,AMD Radeon 520,15.6,2.13kg
+1079.00,Lenovo,16GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.5kg
+348.00,Acer,4GB,1TB HDD,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,15.6,2.1kg
+1799.00,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,15.6,2.4kg
+363.51,Acer,4GB,1TB HDD,Intel Pentium Quad Core N4200 1.1GHz,Intel HD Graphics 505,15.6,2.1kg
+1060.49,Dell,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.56kg
+854.00,Acer,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Nvidia GeForce MX150,17.3,3kg
+754.00,HP,4GB,500GB HDD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.49kg
+1349.00,Huawei,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13,1.05kg
+699.00,HP,6GB,2TB HDD,Intel Core i5 7200U 2.5GHz,AMD Radeon 520,17.3,2.71kg
+309.00,Lenovo,4GB,500GB HDD,AMD A6-Series 9220 2.9GHz,AMD Radeon R4 Graphics,15.6,2.2kg
+489.00,Toshiba,4GB,500GB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2kg
+923.00,HP,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Nvidia GeForce 930MX,17.3,2.5kg
+459.00,Dell,8GB,1TB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.3kg
+449.00,Acer,4GB,128GB SSD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2.1kg
+2799.00,MSI,32GB,512GB SSD +  1TB HDD,Intel Core i7 6920HQ 2.9GHz,Nvidia GTX 980 SLI,18.4,4.4kg
+813.00,Lenovo,8GB,128GB SSD +  1TB HDD,Intel Core i5 7200U 2.5GHz,AMD R17M-M1-70,15.6,1.90kg
+1499.00,HP,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.29kg
+1049.00,Dell,16GB,256GB SSD +  2TB HDD,Intel Core i7 8550U 1.8GHz,AMD Radeon 530,15.6,2.02kg
+1399.00,Dell,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.23kg
+1849.00,Lenovo,16GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.9,1.4kg
+793.00,Toshiba,8GB,128GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.0kg
+1199.00,Xiaomi,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Nvidia GeForce MX150,15.6,1.95kg
+1549.00,Dell,16GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce 150MX,17.3,2.77kg
+2397.00,Dell,16GB,512GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.06kg
+779.00,Lenovo,8GB,256GB SSD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.4kg
+989.00,Acer,8GB,256GB SSD,Intel Core i5 7Y54 1.2GHz,Intel HD Graphics 615,13.3,1.12kg
+1085.00,Dell,8GB,128GB SSD +  1TB HDD,Intel Core i7 8550U 1.8GHz,AMD Radeon 530,17.3,2.8kg
+2824.00,Lenovo,16GB,1TB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.42kg
+260.00,Vero,4GB,32GB Flash Storage,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,14,1.3kg
+999.90,Xiaomi,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce MX150,13.3,1.3kg
+698.00,Lenovo,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Nvidia GeForce MX150,17.3,2.8kg
+839.00,Dell,8GB,1TB HDD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.3,1.62kg
+914.00,HP,8GB,1TB HDD,Intel Core i5 8250U 1.6GHz,Nvidia GeForce 930MX,17.3,2.5kg
+6099.00,Razer,32GB,1TB SSD,Intel Core i7 7820HK 2.9GHz,Nvidia GeForce GTX 1080,17.3,3.49kg
+959.00,HP,8GB,512GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.49kg
+1379.00,HP,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,17.3,3.35kg
+1045.00,HP,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce 930MX,17.3,2.5kg
+1845.00,Dell,16GB,512GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,15.6,2.65kg
+493.00,Lenovo,4GB,128GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.1kg
+742.00,Acer,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,15.6,2.23kg
+1749.00,Lenovo,16GB,512GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,15.6,3.2kg
+3055.00,Dell,16GB,256GB SSD +  1TB HDD,Intel Xeon E3-1505M V6 3GHz,Nvidia Quadro M1200,15.6,2.8kg
+1398.00,Lenovo,16GB,512GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,15.6,2.4kg
+439.00,Dell,6GB,1TB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.3kg
+1949.00,Dell,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.3,1.21kg
+1449.00,Dell,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.3,1.2kg
+597.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.2kg
+779.00,Acer,8GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.4kg
+1407.00,Asus,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,17.3,2.9kg
+349.00,HP,4GB,500GB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2.1kg
+549.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.2kg
+1499.00,Huawei,8GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13,1.05kg
+931.88,Dell,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,AMD Radeon 530,13.3,1.4kg
+589.00,Lenovo,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce GTX 940MX,17.3,2.8kg
+1031.00,HP,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce 930MX,14,1.63kg
+1149.00,Dell,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,14,1.6kg
+1279.00,Dell,16GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.3,1.62kg
+677.35,Dell,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,AMD Radeon 520,15.6,2.2kg
+899.00,Lenovo,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,14,1.74kg
+1363.00,Toshiba,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,13.3,1.2kg
+794.00,HP,8GB,1TB HDD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,15.6,2.1kg
+2456.34,Dell,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,17.3,4.42kg
+832.00,Acer,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,15.6,2.2kg
+859.01,Dell,16GB,1TB HDD,Intel Core i7 7500U 2.7GHz,AMD Radeon R7 M445,15.6,2.3kg
+769.00,Asus,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 920MX,15.6,2kg
+891.00,Asus,8GB,256GB SSD +  500GB HDD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce GTX 950M,17.3,2.69kg
+1269.00,HP,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,AMD FirePro W4190M,15.6,1.9kg
+398.99,Asus,4GB,1TB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.37kg
+330.00,HP,4GB,500GB HDD,AMD E-Series 9000e 1.5GHz,AMD Radeon R2,15.6,2.1kg
+1499.00,Lenovo,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,15.6,3.2kg
+859.00,Dell,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.6kg
+689.00,Acer,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,13.3,1.6kg
+899.00,Dell,16GB,256GB SSD,Intel Core i7 7500U 2.7GHz,AMD Radeon R7 M445,15.6,2.36kg
+390.00,Acer,4GB,1TB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2.1kg
+575.00,Asus,4GB,128GB SSD +  1TB HDD,AMD A10-Series A10-9620P 2.5GHz,AMD Radeon R5 M430,15.6,2.2kg
+3890.00,Asus,32GB,512GB SSD +  1TB HDD,Intel Core i7 7820HK 2.9GHz,Nvidia GeForce GTX 1080,17.3,4.7kg
+846.00,Acer,8GB,256GB SSD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.5kg
+589.00,Lenovo,8GB,128GB SSD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2.2kg
+1145.00,Asus,8GB,128GB SSD +  1TB HDD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce 150MX,17.3,2.1kg
+889.00,Asus,8GB,128GB SSD +  1TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce GTX 950M,17.3,2.69kg
+879.00,Dell,8GB,256GB SSD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.56kg
+1079.00,Lenovo,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.9,1.38kg
+985.00,Dell,8GB,128GB SSD +  2TB HDD,Intel Core i7 8550U 1.8GHz,AMD Radeon 530,15.6,2.2kg
+559.00,HP,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.04kg
+2999.00,Asus,16GB,256GB SSD,Intel Core i7 7820HK 2.9GHz,Nvidia GeForce GTX 1080,17.3,3.6kg
+675.00,HP,4GB,500GB HDD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.49kg
+2040.00,Apple,8GB,512GB SSD,Intel Core i5 3.1GHz,Intel Iris Plus Graphics 650,13.3,1.37kg
+819.00,Dell,8GB,1TB HDD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,15.6,2.08kg
+1799.00,Asus,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 980M,17.3,4.3kg
+469.00,Asus,4GB,1TB HDD,AMD A9-Series 9420 3GHz,AMD Radeon R5 M420,15.6,1.68kg
+1849.00,Lenovo,8GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.9,1.37kg
+702.00,Acer,4GB,256GB SSD,Intel Core i3 7130U 2.7GHz,Nvidia GeForce MX130,17.3,3kg
+949.00,Dell,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.41kg
+445.90,HP,8GB,128GB SSD,AMD A6-Series A6-9220 2.5GHz,AMD Radeon R4 Graphics,15.6,1.91kg
+1059.00,HP,16GB,1TB HDD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce MX150,17.3,2.9kg
+2499.00,MSI,16GB,512GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,4.14kg
+1699.00,Lenovo,8GB,512GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050M,15.6,2kg
+1142.00,Dell,8GB,128GB SSD +  1TB HDD,Intel Core i7 8550U 1.8GHz,AMD Radeon 530,17.3,2.8kg
+444.00,Lenovo,4GB,256GB SSD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2.2kg
+722.00,HP,4GB,500GB HDD,Intel Core i5 8250U 1.6GHz,Intel HD Graphics 620,15.6,2.1kg
+657.00,Dell,4GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.18kg
+565.00,Dell,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,AMD Radeon R5 M430,15.6,2.24kg
+799.00,Dell,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,15.6,2.67kg
+1499.00,Asus,8GB,512GB SSD +  512GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.3,1.1kg
+467.00,Lenovo,4GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.2kg
+1018.00,HP,8GB,1TB HDD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce 930MX,17.3,2.5kg
+880.00,Lenovo,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,15.6,2.05kg
+1958.90,Apple,8GB,512GB SSD,Intel Core i5 2.9GHz,Intel Iris Graphics 550,13.3,1.37kg
+1549.00,Asus,16GB,256GB SSD +  1TB HDD,AMD Ryzen 1700 3GHz,AMD Radeon RX 580,17.3,3.2kg
+735.07,Dell,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,AMD Radeon 520,15.6,2.14kg
+2499.00,Lenovo,16GB,512GB SSD,Intel Core i7 6600U 2.6GHz,Intel HD Graphics 520,14,1.36kg
+812.00,Toshiba,8GB,500GB HDD,Intel Core i7 6500U 2.5GHz,Nvidia GeForce 930M,15.6,2.2kg
+713.07,Dell,12GB,1TB HDD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,2.3kg
+1099.00,Dell,8GB,128GB SSD +  1TB HDD,Intel Core i7 8550U 1.8GHz,AMD Radeon 530,17.3,2.8kg
+745.00,Acer,8GB,1TB HDD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce MX130,15.6,2.2kg
+489.00,Lenovo,4GB,1TB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,17.3,2.8kg
+849.00,Lenovo,8GB,2TB HDD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce MX150,17.3,2.8kg
+859.00,Lenovo,6GB,128GB SSD +  1TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,17.3,2.8kg
+428.00,Dell,4GB,1TB HDD,Intel Core i3 6006U 2.0GHz,AMD Radeon R5 M430,15.6,2.25kg
+829.00,Lenovo,8GB,256GB SSD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.5kg
+579.00,Lenovo,6GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.2kg
+951.00,Acer,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce MX150,15.6,3kg
+659.00,Acer,12GB,1TB HDD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,2.15kg
+1097.00,Lenovo,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 630,15.6,1.95kg
+977.00,Asus,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 940MX,15.6,1.7kg
+1179.00,Lenovo,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.5kg
+659.01,Lenovo,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,15.6,2.2kg
+199.00,Acer,2GB,16GB SSD,Intel Celeron Dual Core 3205U 1.5GHz,Intel HD Graphics,15.6,2.19kg
+1187.00,Asus,8GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,17.3,3kg
+489.00,HP,8GB,1TB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,17.3,2.54kg
+1829.00,Dell,8GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2kg
+739.00,Lenovo,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,15.6,2.05kg
+1299.00,Lenovo,8GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,15.6,3.2kg
+979.00,Acer,8GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.5kg
+2884.86,Dell,16GB,256GB SSD,Intel Core i7 7820HQ 2.9GHz,Nvidia Quadro M1200,17.3,3.42kg
+499.00,Lenovo,6GB,1TB HDD,AMD A10-Series 9600P 2.4GHz,AMD Radeon R5 430,15.6,2.4kg
+1468.00,Asus,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,15.6,1.63kg
+509.00,Asus,4GB,128GB SSD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,14,1.3kg
+2122.00,Asus,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,2.9kg
+649.00,Lenovo,6GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce GTX 940M,17.3,2.8kg
+549.00,Lenovo,8GB,2TB HDD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 940MX,15.6,2.2kg
+1265.00,Asus,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.5kg
+359.99,Lenovo,4GB,1TB HDD,Intel Pentium Quad Core N4200 1.1GHz,Intel HD Graphics 505,15.6,2.2kg
+1975.00,HP,16GB,256GB SSD,Intel Core i7 7600U 2.8GHz,Intel HD Graphics 620,13.3,1.28kg
+1043.00,Toshiba,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Nvidia GeForce 930M,15.6,2.2kg
+819.00,Lenovo,8GB,128GB SSD +  1TB HDD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 940MX,15.6,2.3kg
+469.00,HP,4GB,1TB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,1.86kg
+999.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.1kg
+2499.00,Dell,16GB,1TB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.3,1.21kg
+2099.00,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,15.6,2.8kg
+469.00,Acer,8GB,256GB SSD,AMD A8-Series 7410 2.2GHz,AMD Radeon R5,15.6,2.23kg
+275.00,Asus,2GB,32GB Flash Storage,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,11.6,1.1kg
+844.00,Dell,8GB,128GB SSD +  1TB HDD,Intel Core i5 8250U 1.6GHz,AMD Radeon 530,15.6,2.33kg
+2449.00,HP,16GB,1TB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.3,1.29kg
+459.90,Lenovo,4GB,16GB Flash Storage,Intel Celeron Dual Core 3855U 1.6GHz,Intel HD Graphics 510,13.3,1.45kg
+980.00,HP,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.95kg
+485.00,Acer,4GB,128GB Flash Storage,Intel Pentium Quad Core N3710 1.6GHz,Intel HD Graphics 405,11.6,1.4kg
+1292.00,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.48kg
+589.00,Lenovo,4GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 920MX,17.3,2.79kg
+1094.00,Asus,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,2kg
+902.00,HP,8GB,1TB HDD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,15.6,2.1kg
+659.00,Acer,8GB,256GB SSD,AMD A12-Series 9720P 2.7GHz,AMD Radeon RX 540,15.6,2.2kg
+292.00,Lenovo,4GB,32GB Flash Storage,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,14,1.44kg
+549.00,Acer,6GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.23kg
+1049.90,Asus,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,15.6,1.7kg
+1335.00,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,12.5,1.26kg
+2639.00,Dell,32GB,1TB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.06kg
+1199.00,MSI,8GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,17.3,2.7kg
+943.00,Toshiba,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.0kg
+1334.00,Asus,8GB,256GB SSD +  1TB HDD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,2kg
+449.00,Lenovo,4GB,1TB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,1.85kg
+999.00,Asus,8GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.5kg
+1268.00,HP,8GB,256GB SSD,Intel Core i5 7300U 2.6GHz,Intel HD Graphics 620,14,1.48kg
+1049.00,Dell,8GB,128GB SSD +  1TB HDD,Intel Core i5 8250U 1.6GHz,Nvidia GeForce 940MX,15.6,1.9kg
+1144.00,HP,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.84kg
+274.99,Asus,4GB,1TB HDD,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,15.6,2kg
+1142.75,Dell,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Nvidia GeForce 940MX,15.6,2kg
+274.90,Dell,4GB,500GB HDD,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics,15.6,2.2kg
+899.00,Lenovo,12GB,2TB HDD,AMD A12-Series 9720P 3.6GHz,AMD Radeon 530,15.6,2.2kg
+716.00,HP,8GB,1TB HDD,Intel Core i3 7100U 2.4GHz,Nvidia GeForce 930MX,15.6,2.1kg
+2099.00,Lenovo,16GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.9,1.4kg
+1579.00,Dell,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.3,1.2kg
+1129.00,Lenovo,16GB,256GB SSD +  2TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.4kg
+279.00,HP,2GB,32GB Flash Storage,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,14,1.44kg
+1607.96,Dell,16GB,512GB SSD +  256GB SSD,Intel Core i7 8650U 1.9GHz,Intel UHD Graphics 620,15.6,1.88kg
+375.00,Asus,4GB,32GB Flash Storage,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,11.6,1.5kg
+663.00,Dell,8GB,1TB HDD,Intel Core i5 8250U 1.6GHz,AMD Radeon 530,15.6,1.9kg
+2027.42,Dell,16GB,512GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.06kg
+1304.00,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,1.84kg
+1409.00,MSI,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,17.3,2.7kg
+1738.27,HP,8GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia Quadro M1200,15.6,2.6kg
+1403.00,Toshiba,16GB,512GB SSD,Intel Core i7 6500U 2.5GHz,Nvidia GeForce 930M,15.6,2.4kg
+970.90,Dell,8GB,128GB SSD +  2TB HDD,Intel Core i7 8550U 1.8GHz,AMD Radeon 530,15.6,2.02kg
+321.99,Lenovo,4GB,1TB HDD,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,15.6,2.2kg
+999.00,Dell,8GB,1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.65kg
+557.37,Dell,8GB,2TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.36kg
+1427.00,Dell,8GB,256GB SSD,Intel Core i5 7300U 2.6GHz,Intel HD Graphics 620,14,1.36kg
+439.00,HP,4GB,500GB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,1.86kg
+945.00,Asus,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,2kg
+719.00,Lenovo,6GB,128GB SSD +  1TB HDD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce GTX 940MX,17.3,2.8kg
+639.00,HP,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.86kg
+499.00,Lenovo,8GB,256GB SSD,Intel Core i3 6006U 2GHz,Nvidia GeForce 920MX,15.6,2.2kg
+389.00,HP,8GB,2TB HDD,Intel Pentium Quad Core N3710 1.6GHz,Intel HD Graphics 405,15.6,2.04kg
+1085.00,Dell,8GB,128GB SSD +  1TB HDD,Intel Core i5 8250U 1.6GHz,AMD Radeon 530,17.3,2.8kg
+809.00,Lenovo,8GB,128GB SSD +  1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.4kg
+899.00,Dell,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,AMD Radeon R7 M445,15.6,2.33kg
+1750.00,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.36kg
+1099.00,Asus,12GB,512GB SSD +  2TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce GT 940MX,15.6,2.26kg
+426.00,Acer,4GB,128GB SSD,AMD A9-Series 9420 3GHz,AMD Radeon R5,15.6,2.1kg
+2199.00,Asus,16GB,256GB SSD +  1TB HDD,AMD Ryzen 1700 3GHz,AMD Radeon RX 580,17.3,3.25kg
+489.00,Lenovo,4GB,128GB SSD,AMD A8-Series 7410 2.2GHz,AMD Radeon R5,17.3,2.6kg
+869.01,Dell,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.3,1.62kg
+488.99,HP,4GB,256GB SSD,AMD A9-Series 9420 3GHz,AMD Radeon R5,15.6,1.91kg
+553.00,Lenovo,4GB,128GB SSD,Intel Celeron Quad Core N3450 1.1GHz,Intel HD Graphics 500,11.6,1.59kg
+309.00,Dell,4GB,500GB HDD,Intel Celeron Dual Core N3060 1.60GHz,Intel HD Graphics 400,15.6,1.8kg
+286.00,Asus,4GB,32GB Flash Storage,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,14,1.5kg
+846.00,Acer,8GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.4kg
+1191.00,HP,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,17.3,3.35kg
+403.50,Lenovo,4GB,128GB SSD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,1.85kg
+1655.00,Asus,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,15.6,2.3kg
+1099.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 940MX,14,1.5kg
+1748.90,Asus,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.1kg
+2282.00,Lenovo,8GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.13kg
+549.00,Lenovo,4GB,128GB SSD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,13.3,1.5kg
+1369.00,Dell,8GB,500GB HDD,Intel Core i5 6440HQ 2.6GHz,AMD FirePro W5130M,15.6,2.23kg
+2135.00,Dell,8GB,256GB SSD,Intel Core i7 6820HQ 2.7GHz,Nvidia Quadro M1200,15.6,2kg
+2509.00,Lenovo,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.42kg
+1039.00,Asus,8GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,17.3,3kg
+1591.00,Asus,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,17.3,3kg
+693.99,Acer,12GB,1TB HDD,Intel Core i5 8250U 1.6GHz,Nvidia GeForce MX130,15.6,2.2kg
+1349.00,MSI,8GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,17.3,2.7kg
+778.87,Dell,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,AMD Radeon R7 M445,15.6,2.33kg
+499.00,HP,4GB,256GB SSD,AMD A9-Series 9420 3GHz,AMD Radeon 520,15.6,1.91kg
+1229.56,Lenovo,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,AMD Radeon RX 550,15.6,2.1kg
+938.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.9kg
+2712.00,Dell,8GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia Quadro M1200,15.6,1.78kg
+2625.00,Lenovo,16GB,1TB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.13kg
+306.00,Lenovo,4GB,1TB HDD,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,15.6,2.2kg
+1529.00,Asus,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,17.3,2.9kg
+1144.50,Lenovo,8GB,256GB SSD +  1TB HDD,Intel Core i5 8250U 1.6GHz,AMD Radeon RX 550,15.6,2.1kg
+879.00,Acer,8GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.5kg
+2249.00,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,2.8kg
+1873.00,Asus,8GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.10kg
+1747.00,Toshiba,16GB,512GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,13.3,1.2kg
+1680.00,Dell,8GB,512GB SSD,Intel Core i7 7600U 2.8GHz,Intel HD Graphics,14,1.36kg
+409.00,Lenovo,4GB,500GB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2.2kg
+304.45,Lenovo,2GB,32GB Flash Storage,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,11.6,1.15kg
+1925.00,Lenovo,8GB,512GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia Quadro M1200,15.6,2.67kg
+1943.00,Lenovo,8GB,512GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GT 940MX,14,1.7kg
+469.00,HP,4GB,1TB HDD,Intel Core i3 6006U 2GHz,AMD Radeon 520,15.6,2.1kg
+789.01,Acer,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,13.3,1.6kg
+928.00,Asus,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.27kg
+598.90,Dell,4GB,256GB SSD,Intel Core i5 7200U 2.5GHz,AMD Radeon R5 M430,15.6,2.3kg
+689.00,Dell,4GB,128GB SSD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,13.3,1.65kg
+1500.00,HP,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,14,1.43kg
+539.95,Dell,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.14kg
+1215.38,Lenovo,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,AMD Radeon RX 550,14,1.75kg
+1899.00,Lenovo,16GB,512GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2kg
+449.00,Chuwi,6GB,64GB Flash Storage,Intel Celeron Quad Core N3450 1.1GHz,Intel HD Graphics 500,12.3,1.4kg
+1427.00,HP,8GB,256GB SSD,Intel Core i7 7820HQ 2.9GHz,Intel HD Graphics 630,15.6,2.31kg
+597.00,Asus,8GB,1TB HDD,Intel Core i3 7100U 2.4GHz,Nvidia GeForce 940MX,15.6,2.3kg
+2799.00,Dell,16GB,256GB SSD +  1TB HDD,Intel Core i7 7820HK 2.9GHz,Nvidia GeForce GTX 1070,17.3,4.42kg
+1159.00,Dell,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.62kg
+1142.40,Dell,8GB,256GB SSD +  2TB HDD,Intel Core i7 8550U 1.8GHz,AMD Radeon 530,15.6,2.02kg
+1099.00,Dell,8GB,256GB SSD,Intel Core i7 7600U 2.8GHz,Intel HD Graphics 620,14,1.6kg
+1999.00,HP,12GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,3.35kg
+299.00,Mediacom,4GB,32GB SSD,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,11.6,1.16kg
+269.00,Samsung,4GB,16GB Flash Storage,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,11.6,1.15kg
+1010.00,Lenovo,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.4kg
+599.00,Lenovo,4GB,128GB SSD,Intel Core i3 7130U 2.7GHz,Intel HD Graphics 620,14,1.7kg
+2445.00,Lenovo,16GB,512GB SSD,Intel Core i7 7600U 2.8GHz,Nvidia GeForce 940MX,15.6,2.3kg
+2449.00,Lenovo,16GB,512GB SSD,Intel Core i7 7820HQ 2.9GHz,Nvidia Quadro M2200M,15.6,2.5kg
+1695.00,Asus,8GB,256GB SSD +  1TB HDD,AMD Ryzen 1600 3.2GHz,AMD Radeon RX 580,17.3,3.2kg
+347.00,HP,4GB,500GB HDD,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,15.6,2.1kg
+2199.00,Google,16GB,512GB SSD,Intel Core i7 7Y75 1.3GHz,Intel HD Graphics 615,12.3,1.1kg
+2382.00,Lenovo,24GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.32kg
+559.00,Asus,4GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2kg
+519.00,Lenovo,8GB,1TB HDD,AMD A6-Series 9220 2.5GHz,AMD Radeon R4,17.3,2.8kg
+749.00,Dell,4GB,256GB SSD,Intel Core i5 8250U 1.6GHz,AMD Radeon 530,15.6,2.2kg
+1429.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,12.5,1.36kg
+349.00,Lenovo,4GB,128GB SSD,Intel Pentium Quad Core N4200 1.1GHz,Intel HD Graphics 505,15.6,2.2kg
+1099.00,HP,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.2kg
+1179.00,Dell,8GB,256GB SSD,Intel Core i5 7440HQ 2.8GHz,Nvidia GeForce 930MX,14,1.64kg
+441.80,Acer,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.4kg
+1993.00,Dell,8GB,64GB Flash Storage +  1TB HDD,Intel Xeon E3-1505M V6 3GHz,Nvidia Quadro M620,15.6,2.23kg
+1027.74,MSI,8GB,256GB SSD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.2kg
+2589.00,Microsoft,16GB,512GB SSD,Intel Core i7 7660U 2.5GHz,Intel Iris Plus Graphics 640,13.5,1.25kg
+589.00,HP,8GB,128GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.91kg
+1975.00,Dell,16GB,256GB SSD,Intel Core i7 6820HQ 2.7GHz,Nvidia Quadro M620,15.6,2.17kg
+1534.00,HP,8GB,512GB SSD,Intel Core i7 7820HQ 2.9GHz,Intel HD Graphics 620,15.6,2.31kg
+1345.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.65kg
+979.00,Dell,8GB,128GB SSD +  1TB HDD,Intel Core i7 8550U 1.8GHz,AMD Radeon 530,15.6,2.36kg
+479.00,Dell,4GB,500GB HDD,Intel Pentium Quad Core N3710 1.6GHz,Intel HD Graphics 405,11.6,1.47kg
+2046.00,Dell,8GB,1TB HDD,Intel Core i7 7700HQ 2.7GHz,Nvidia GeForce GTX 1060,17.3,4.42kg
+989.00,Microsoft,4GB,128GB SSD,Intel Core M m3-7Y30 2.2GHz,Intel HD Graphics 615,13.5,1.252kg
+1799.00,Microsoft,8GB,256GB SSD,Intel Core i7 7660U 2.5GHz,Intel Iris Plus Graphics 640,13.5,1.25kg
+639.90,HP,8GB,256GB SSD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,17.3,2.5kg
+544.00,Acer,4GB,1TB HDD,Intel Core i3 6006U 2GHz,Nvidia GeForce 940MX,15.6,2.23kg
+435.00,Acer,4GB,128GB SSD,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,11.6,1.4kg
+749.00,Asus,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.37kg
+799.00,Lenovo,8GB,512GB SSD,Intel Core i7 7500U 2.7GHz,AMD Radeon R7 M460,14,1.5kg
+2090.00,Lenovo,8GB,256GB SSD,Intel Core i7 7820HQ 2.9GHz,Nvidia Quadro M2200M,15.6,2.67kg
+304.00,Asus,4GB,500GB HDD,Intel Pentium Quad Core N4200 1.1GHz,Intel HD Graphics 500,15.6,2kg
+469.00,Acer,4GB,500GB HDD,Intel Core i3 6006U 2GHz,Nvidia GeForce GTX 940MX,15.6,2.2kg
+759.00,Dell,8GB,2TB HDD,Intel Core i5 8250U 1.6GHz,AMD Radeon 530,15.6,2.02kg
+1699.00,HP,12GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,17.3,3.78kg
+1858.00,Lenovo,12GB,256GB SSD,Intel Core i7 6600U 2.6GHz,Intel HD Graphics 520,14,1.4kg
+1999.00,HP,8GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.3,1.29kg
+1154.00,HP,8GB,500GB HDD,Intel Core i5 7200U 2.5GHz,AMD FirePro W4190M,15.6,1.9kg
+1275.00,Google,8GB,128GB SSD,Intel Core i5 7Y57 1.2GHz,Intel HD Graphics 615,12.3,1.1kg
+1841.85,Dell,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.42kg
+1299.00,Asus,12GB,128GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Intel HD Graphics 530,15.6,2.06kg
+740.00,Dell,8GB,128GB SSD,Intel Core i3 6100U 2.3GHz,Intel HD Graphics 520,14,1.79kg
+2408.00,Dell,8GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia Quadro M1200,15.6,1.78kg
+1364.00,Lenovo,8GB,180GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.7kg
+675.00,Dell,8GB,1TB HDD,Intel Core i5 8250U 1.6GHz,AMD Radeon 520,15.6,2.2kg
+1672.00,Toshiba,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.05kg
+1262.00,Dell,8GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce 940MX,15.6,2.16kg
+586.60,Dell,4GB,1TB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.18kg
+726.00,HP,4GB,128GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.49kg
+248.90,Chuwi,4GB,64GB Flash Storage,Intel Atom x5-Z8350 1.44GHz,Intel HD Graphics,15.6,1.89kg
+565.00,Lenovo,4GB,128GB SSD,Intel Core i3 6006U 2.0GHz,Intel HD Graphics 520,15.6,2.3kg
+1049.00,Lenovo,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,14,1.75kg
+2338.00,Dell,16GB,512GB SSD,Intel Core i7 6820HQ 2.7GHz,Nvidia Quadro M620,15.6,2.17kg
+1899.00,Dell,16GB,512GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.06kg
+1798.00,Lenovo,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,12.5,1.36kg
+1950.00,Asus,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,12.5,0.91kg
+1011.99,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 940MX,15.6,2.3kg
+2799.00,Toshiba,32GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.05kg
+1350.00,Asus,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,1.99kg
+579.00,Acer,8GB,1TB HDD,AMD A10-Series 9620P 2.5GHz,AMD Radeon RX 540,15.6,2.2kg
+1269.00,Asus,24GB,256GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 965M,17.3,4.33kg
+1099.00,Lenovo,8GB,180GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,12.5,1.3kg
+898.90,Lenovo,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,15.6,2.17kg
+1749.00,HP,8GB,1TB SSD,Intel Core i7 7600U 2.8GHz,Intel HD Graphics 620,14,1.48kg
+949.00,Lenovo,8GB,256GB SSD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,13.3,1.4kg
+911.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.3kg
+340.00,Asus,4GB,64GB Flash Storage,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,11.6,1.2kg
+618.99,HP,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,AMD Radeon 520,15.6,1.91kg
+1599.00,Lenovo,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.9,1.4kg
+299.00,Lenovo,4GB,500GB HDD,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,14,2.1kg
+265.00,Lenovo,4GB,16GB SSD,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,11.6,1.25kg
+949.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.44kg
+1224.00,Asus,8GB,256GB SSD +  1TB HDD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,2kg
+613.00,Acer,4GB,1TB HDD,Intel Core i5 8250U 1.6GHz,Nvidia GeForce MX150,15.6,2.2kg
+1323.00,HP,8GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.34kg
+1149.00,Lenovo,8GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,15.6,2.4kg
+899.00,Dell,8GB,128GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.29kg
+639.00,Acer,4GB,500GB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,15.6,2.2kg
+836.00,Dell,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.18kg
+1219.24,Dell,16GB,256GB SSD +  2TB HDD,Intel Core i7 8550U 1.8GHz,AMD Radeon 530,15.6,2.2kg
+1399.95,Xiaomi,16GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Nvidia GeForce MX150,15.6,1.95kg
+245.00,Asus,2GB,32GB Flash Storage,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,11.6,1.1kg
+521.47,HP,4GB,1TB HDD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,15.6,2.04kg
+2968.00,Asus,24GB,512GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX1080,15.6,2.24kg
+889.00,HP,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 930MX,15.6,2.04kg
+1504.00,Asus,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX1050 Ti,17.3,3kg
+1399.00,Lenovo,8GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,15.6,3.2kg
+1399.00,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.32kg
+1279.73,Dell,8GB,256GB SSD,Intel Core i5 7300U 2.6GHz,Intel HD Graphics 620,14,1.64kg
+689.00,HP,4GB,128GB SSD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,1.63kg
+889.00,Dell,8GB,128GB SSD +  1TB HDD,Intel Core i5 8250U 1.6GHz,AMD Radeon 530,17.3,2.8kg
+1340.00,Lenovo,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,2.02kg
+799.00,Lenovo,4GB,1TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 920MX,15.6,2.2kg
+459.00,Lenovo,8GB,2TB HDD,Intel Core i3 6006U 2GHz,Nvidia GeForce 920MX,15.6,2.2kg
+585.00,Dell,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,AMD Radeon R5 M430,15.6,2.3kg
+1377.00,Dell,8GB,256GB SSD,Intel Core i5 7440HQ 2.8GHz,Intel HD Graphics 620,15.6,1.9kg
+3012.77,Dell,16GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,4.42kg
+860.00,Toshiba,8GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.0kg
+1299.00,Asus,8GB,256GB SSD +  1TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce GTX 960M,15.6,2kg
+369.00,Mediacom,4GB,32GB SSD,Intel Celeron Quad Core N3450 1.1GHz,Intel HD Graphics 500,13.3,1.2kg
+1649.00,Asus,8GB,128GB SSD +  1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1060,15.6,2.3kg
+1369.00,Dell,8GB,256GB SSD,Intel Core i7 7600U 2.8GHz,Nvidia GeForce 930MX,15.6,1.93kg
+797.41,Dell,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,AMD Radeon 530,15.6,2.2kg
+398.99,HP,4GB,256GB SSD,Intel Pentium Quad Core N3710 1.6GHz,Intel HD Graphics 405,15.6,1.86kg
+1799.00,HP,12GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,17.3,2.62kg
+859.00,Lenovo,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,14,1.87kg
+1399.00,Dell,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.3,1.2kg
+735.87,Dell,4GB,128GB SSD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,14,1.6kg
+1145.00,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.34kg
+798.00,Acer,8GB,1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.4kg
+349.00,Asus,4GB,500GB HDD,AMD E-Series 7110 1.8GHz,AMD Radeon R2 Graphics,15.6,2kg
+705.50,HP,4GB,128GB SSD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.1kg
+785.00,Lenovo,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.87kg
+462.35,Lenovo,4GB,1TB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.15kg
+397.00,HP,4GB,500GB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,1.86kg
+1729.00,Lenovo,8GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,1.99kg
+499.00,Lenovo,4GB,128GB SSD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2.2kg
+1116.99,Dell,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.9kg
+2699.00,Dell,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,4.42kg
+544.15,HP,8GB,1TB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,17.3,2.65kg
+1280.00,HP,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 930MX,17.3,2.63kg
+224.00,Asus,4GB,500GB HDD,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,15.6,2kg
+255.00,Mediacom,4GB,32GB Flash Storage,Intel Atom x5-Z8350 1.44GHz,Intel HD Graphics,13.3,1.35kg
+949.00,Lenovo,6GB,128GB SSD +  1TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,17.3,2.8kg
+568.90,HP,6GB,128GB SSD,AMD A10-Series A10-9620P 2.5GHz,AMD Radeon 530,15.6,1.91kg
+617.90,Dell,4GB,1TB HDD,Intel Core i3 6006U 2GHz,AMD Radeon R5 M420,15.6,2.18kg
+349.00,Acer,4GB,32GB Flash Storage,Intel Celeron Dual Core N3350 2.0GHz,Intel HD Graphics 500,11.6,1.25kg
+630.00,Lenovo,4GB,128GB SSD,Intel Core i3 7130U 2.7GHz,Intel HD Graphics 620,15.6,2.05kg
+1965.00,HP,16GB,512GB SSD,Intel Core M 6Y75 1.2GHz,Intel HD Graphics 515,13.3,1.16kg
+2999.00,Lenovo,8GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia Quadro M620M,17.3,3.4kg
+839.00,Asus,8GB,128GB SSD +  1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.5kg
+1599.00,Dell,8GB,128GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.21kg
+959.00,Dell,4GB,500GB HDD,Intel Core i5 7300U 2.6GHz,Intel HD Graphics 620,15.6,1.93kg
+739.00,Fujitsu,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.2kg
+344.00,Lenovo,4GB,500GB HDD,Intel Pentium Quad Core N4200 1.1GHz,Intel HD Graphics 505,15.6,2.2kg
+990.00,Lenovo,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,2.02kg
+1860.99,HP,8GB,500GB HDD,Intel Core i5 7440HQ 2.8GHz,Nvidia Quadro M1200,17.3,3.14kg
+389.00,HP,8GB,2TB HDD,Intel Pentium Quad Core N3710 1.6GHz,Intel HD Graphics 405,14,1.94kg
+649.00,HP,6GB,256GB SSD,AMD A9-Series A9-9420 3GHz,AMD Radeon 530,15.6,1.95kg
+830.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.3kg
+685.00,Lenovo,4GB,500GB HDD,Intel Core i5 8250U 1.6GHz,Intel HD Graphics 620,15.6,2.05kg
+249.00,Mediacom,4GB,32GB SSD,Intel Atom x5-Z8350 1.44GHz,Intel HD Graphics,14,1.4kg
+1865.00,Toshiba,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.24kg
+2663.00,Lenovo,32GB,256GB SSD +  1TB HDD,Intel Core i7 6820HK 2.7GHz,Nvidia GeForce GTX 1070,17.3,4.6kg
+2729.00,MSI,16GB,512GB SSD +  1TB HDD,Intel Core i7 7820HK 2.9GHz,Nvidia GeForce GTX 1070,17.3,4.14kg
+749.01,Dell,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,AMD Radeon R5 M430,15.6,2.2kg
+389.00,Mediacom,4GB,32GB SSD,Intel Celeron Quad Core N3450 1.1GHz,Intel HD Graphics 500,14,1.45kg
+1008.52,Dell,8GB,500GB HDD,Intel Core i5 7300U 2.6GHz,Intel HD Graphics 620,15.6,1.9kg
+719.00,HP,4GB,128GB SSD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,13.3,1.49kg
+1537.39,Dell,16GB,256GB SSD,Intel Core i7 7600U 2.8GHz,Nvidia GeForce 930MX,15.6,1.93kg
+295.00,Dell,4GB,16GB Flash Storage,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,11.6,1.26kg
+2349.00,MSI,16GB,128GB SSD +  1TB HDD,Intel Core i7 6820HK 2.7GHz,Nvidia GeForce GTX 980M,17.3,4.5kg
+1498.00,HP,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,17.3,3.78kg
+1673.00,Lenovo,12GB,256GB SSD,Intel Core i7 6600U 2.6GHz,Intel HD Graphics 520,14,1.4kg
+609.00,Lenovo,12GB,1TB HDD,Intel Core i7 8550U 1.8GHz,Intel HD Graphics 620,15.6,2.2kg
+1770.00,Asus,8GB,128GB SSD +  1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1060,17.3,2.73kg
+739.00,Asus,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 520,15.6,2.2kg
+949.00,Lenovo,12GB,512GB SSD,AMD A12-Series 9720P 3.6GHz,AMD Radeon 530,15.6,2.2kg
+603.00,Dell,4GB,128GB SSD,Intel Core M 7Y30 1.0GHz,Intel HD Graphics 615,11.6,1.39kg
+1699.00,Samsung,16GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.5kg
+529.00,Lenovo,4GB,500GB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,17.3,2.8kg
+459.00,Lenovo,8GB,1TB HDD,Intel Core i3 6100U 2.3GHz,Intel HD Graphics 520,15.6,2.29kg
+2025.00,Lenovo,8GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.37kg
+1474.00,Lenovo,8GB,256GB SSD,Intel Core i5 7300HQ 2.5GHz,Intel HD Graphics 630,14,1.7kg
+1670.00,Dell,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,12.5,1.34kg
+1763.00,Dell,8GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia Quadro M620,15.6,2.06kg
+1219.00,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,1.84kg
+668.48,HP,4GB,500GB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.1kg
+329.00,Acer,4GB,32GB Flash Storage,Intel Celeron Quad Core N3450 1.1GHz,Intel HD Graphics 500,14,1.6kg
+2199.00,MSI,16GB,128GB SSD +  1TB HDD,Intel Core i7 6820HK 2.7GHz,Nvidia GeForce GTX 970M,17.3,4.14kg
+465.00,Dell,4GB,1TB HDD,Intel Core i3 6006U 2GHz,AMD Radeon R5 M420,15.6,2.18kg
+2299.00,MSI,16GB,256GB SSD +  2TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,15.6,1.8kg
+1399.00,Toshiba,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,15.6,2.2kg
+564.00,Lenovo,6GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.4kg
+1299.00,Lenovo,8GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Intel HD Graphics 630,15.6,2kg
+349.00,Acer,4GB,128GB Flash Storage,Intel Pentium Quad Core N3710 1.6GHz,Intel HD Graphics 405,14,1.6kg
+4899.00,Lenovo,32GB,1TB SSD,Intel Xeon E3-1535M v6 3.1GHz,Nvidia Quadro M2200M,15.6,2.5kg
+879.01,Dell,16GB,1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 960<U+039C>,15.6,2.59kg
+443.90,Dell,4GB,1TB HDD,Intel Core i3 6006U 2.0GHz,Intel HD Graphics 520,15.6,2.18kg
+359.00,Dell,4GB,1TB HDD,Intel Core i3 6006U 2.0GHz,Intel HD Graphics 520,15.6,2.25kg
+869.00,Dell,4GB,500GB HDD,Intel Core i5 7300U 2.6GHz,Intel HD Graphics 620,15.6,1.93kg
+1168.00,Asus,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,17.3,3kg
+569.00,Dell,4GB,128GB SSD,Intel Core i5 7200U 2.5GHz,AMD Radeon R5 M420,15.6,2.18kg
+1389.00,HP,8GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,1.84kg
+2267.86,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,15.6,2.94kg
+379.00,Acer,4GB,32GB Flash Storage,Intel Celeron Quad Core N3160 1.6GHz,Intel HD Graphics 400,11.6,1.25kg
+1124.00,HP,8GB,256GB SSD,Intel Core i5 7300U 2.6GHz,Intel HD Graphics 620,14,2.31kg
+1465.00,Lenovo,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.65kg
+776.00,Dell,4GB,1TB HDD,Intel Core i5 8250U 1.6GHz,AMD Radeon 530,15.6,2.2kg
+799.00,Fujitsu,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.2kg
+932.00,HP,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,1.88kg
+899.00,Lenovo,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 920MX,15.6,2.2kg
+239.00,Mediacom,2GB,32GB Flash Storage,Intel Atom x5-Z8350 1.44GHz,Intel HD Graphics,14,1.4kg
+468.00,Lenovo,4GB,128GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.2kg
+639.01,Asus,6GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.5kg
+1820.00,Dell,8GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2kg
+1900.00,Asus,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.1kg
+1479.00,Dell,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.62kg
+829.00,Lenovo,4GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,15.6,1.8kg
+579.00,Lenovo,4GB,1TB HDD,Intel Core i3 6006U 2GHz,Nvidia GeForce 920MX,15.6,2.2kg
+399.00,Asus,8GB,1TB HDD,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,15.6,2kg
+906.62,Asus,8GB,1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,1.99kg
+1869.00,Dell,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.23kg
+249.00,Lenovo,2GB,32GB Flash Storage,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,14,1.42kg
+1757.42,Lenovo,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.37kg
+2399.00,Dell,16GB,1TB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.06kg
+1109.00,Lenovo,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050M,15.6,2.5kg
+520.90,HP,8GB,1TB HDD,AMD A9-Series 9420 3GHz,AMD Radeon R5,17,2.6kg
+2450.00,Lenovo,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.14kg
+1169.00,Asus,8GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.5kg
+450.00,Acer,4GB,500GB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2.4kg
+274.00,Lenovo,4GB,32GB Flash Storage,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics,14,1.43kg
+919.00,Acer,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel Graphics 620,14,1.8kg
+2599.00,Razer,16GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,14,1.95kg
+1213.00,Toshiba,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,13.3,1.2kg
+1584.00,Lenovo,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,12.5,1.36kg
+2799.00,Asus,32GB,512GB SSD,Intel Core i7 6820HK 2.7GHz,Nvidia GeForce GTX 1080,17.3,3.8kg
+709.00,Acer,8GB,1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.4kg
+1449.90,Dell,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.2kg
+1191.80,MSI,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.2kg
+364.90,HP,4GB,500GB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,1.86kg
+1064.00,Toshiba,8GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.0kg
+919.00,Dell,8GB,256GB SSD,Intel Core i7 8550U 1.8GHz,AMD Radeon 530,15.6,2.2kg
+1135.00,Dell,16GB,256GB SSD +  2TB HDD,Intel Core i7 8550U 1.8GHz,AMD Radeon 530,15.6,2.2kg
+1196.00,Lenovo,8GB,128GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 960,15.6,3.31kg
+3147.37,Dell,32GB,512GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,4.42kg
+1229.00,Dell,8GB,256GB SSD,Intel Core i5 6300U 2.4GHz,Intel HD Graphics 520,14,1.56kg
+419.00,Lenovo,4GB,500GB HDD,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,15.6,2.2kg
+535.00,Lenovo,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.2kg
+539.00,HP,6GB,1TB HDD,Intel Core i3 6006U 2GHz,AMD Radeon R5 M430,15.6,2.04kg
+1486.77,MSI,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,17.3,2.7kg
+498.00,Toshiba,4GB,128GB SSD,Intel Core i3 6100U 2.1GHz,Intel HD Graphics 520,15.6,2.1kg
+955.00,Dell,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.06kg
+745.00,HP,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,AMD Radeon 530,15.6,2.1kg
+1258.00,Toshiba,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.0kg
+412.00,Acer,4GB,128GB SSD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2.1kg
+1867.85,Microsoft,8GB,256GB SSD,Intel Core i7 7600U 2.8GHz,Intel Iris Plus Graphics 640,13.5,1.252kg
+817.95,Lenovo,8GB,128GB SSD +  1TB HDD,Intel Core i5 7200U 2.5GHz,AMD Radeon R5 M430,15.6,1.90kg
+1034.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.3kg
+349.00,Lenovo,4GB,128GB SSD,AMD E-Series E2-9000 2.2GHz,AMD Radeon R2 Graphics,15.6,2.2kg
+699.00,HP,4GB,128GB SSD,Intel Core i3 7100U 2.4GHz,Nvidia GeForce 940MX,14,1.63kg
+1294.00,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.4kg
+1135.00,Asus,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.1kg
+495.00,HP,8GB,64GB Flash Storage,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,11.6,1.4kg
+2299.00,LG,8GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Intel HD Graphics 620,15.6,1.09kg
+1299.00,Acer,16GB,256GB SSD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.5kg
+997.90,MSI,8GB,256GB SSD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.2kg
+419.00,Asus,4GB,128GB SSD,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,15.6,1.86kg
+2051.00,Dell,16GB,128GB SSD +  1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1060,15.6,3.21kg
+699.00,HP,4GB,256GB SSD,Intel Core i3 6006U 2GHz,AMD Radeon R5 520,17.3,2.5kg
+1499.00,Lenovo,8GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,13.3,1.19kg
+2813.75,Dell,16GB,256GB SSD +  1TB HDD,Intel Core i7 7820HK 2.9GHz,Nvidia GeForce GTX 1070,15.6,3.49kg
+612.61,HP,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,AMD Radeon 520,15.6,1.86kg
+545.67,Dell,4GB,1TB HDD,Intel Core i3 6006U 2GHz,AMD Radeon R5 M430,15.6,2.2kg
+569.00,HP,6GB,2TB HDD,AMD A10-Series 9600P 2.4GHz,AMD Radeon R7 M440,17.3,2.65kg
+318.00,Lenovo,4GB,500GB HDD,Intel Celeron Dual Core 3855U 1.6GHz,Intel HD Graphics 510,15.6,2.1kg
+375.00,Acer,4GB,32GB Flash Storage,Intel Celeron Dual Core 3855U 1.6GHz,Intel HD Graphics 510,14,1.45kg
+699.00,Lenovo,4GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.7kg
+1907.99,HP,8GB,500GB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia Quadro M1200,17.3,3.14kg
+2590.00,Lenovo,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.42kg
+973.00,Toshiba,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.5kg
+269.00,Acer,4GB,32GB Flash Storage,Intel Celeron Dual Core N3050 1.6GHz,Intel HD Graphics,11.6,1.4kg
+1749.00,Lenovo,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.38kg
+669.00,Asus,4GB,64GB Flash Storage,Intel Core M M3-6Y30 0.9GHz,Intel HD Graphics 515,12.5,1.2kg
+1877.00,Toshiba,16GB,512GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,13.3,1.36kg
+689.00,HP,4GB,500GB HDD,Intel Core i7 7500U 2.7GHz,AMD Radeon 530,15.6,2.1kg
+819.00,Dell,8GB,1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.56kg
+399.00,Lenovo,4GB,256GB SSD,AMD A9-Series 9420 2.9GHz,AMD Radeon 530,15.6,2.2kg
+429.00,Lenovo,8GB,1TB HDD,AMD A12-Series 9720P 3.6GHz,AMD Radeon R7,15.6,2.2kg
+621.45,Lenovo,4GB,1TB HDD +  1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.1kg
+450.00,Lenovo,4GB,500GB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,1.90kg
+795.00,Dell,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.18kg
+999.00,Acer,8GB,256GB SSD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.6kg
+1855.00,Lenovo,16GB,512GB SSD,Intel Core i7 6500U 2.5GHz,Nvidia Quadro M520M,15.6,2.18kg
+1191.00,Lenovo,8GB,256GB SSD,Intel Core i5 6300HQ 2.3GHz,Intel HD Graphics 520,14,1.8kg
+655.01,HP,6GB,2TB HDD,AMD A10-Series 9620P 2.5GHz,AMD Radeon 530,17.3,2.71kg
+1249.00,Lenovo,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.5kg
+1089.00,Dell,8GB,256GB SSD,Intel Core i5 7440HQ 2.8GHz,Nvidia GeForce 930MX,14,1.64kg
+726.00,Dell,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.98kg
+298.00,Asus,4GB,32GB Flash Storage,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,14,1.5kg
+1426.66,Dell,16GB,512GB SSD,Intel Core i5 7300U 2.6GHz,Intel HD Graphics 620,15.6,1.93kg
+857.07,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 920MX,14,1.87kg
+1179.00,Dell,8GB,256GB SSD,Intel Core i5 7300U 2.6GHz,Intel HD Graphics 620,15.6,1.9kg
+298.00,Lenovo,4GB,500GB HDD,AMD A6-Series 7310 2GHz,AMD Radeon R4,15.6,2.19kg
+265.00,Mediacom,4GB,32GB HDD,Intel Atom Z8350 1.92GHz,Intel HD Graphics 400,14,1.4kg
+1200.00,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 930MX,17.3,2.63kg
+1686.64,Lenovo,8GB,512GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,14,1.17kg
+836.60,HP,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.58kg
+1499.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.32kg
+3659.40,Dell,32GB,1TB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,4.36kg
+1348.48,MSI,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,17.3,2.7kg
+489.90,Lenovo,4GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.9kg
+719.00,Dell,8GB,128GB SSD +  1TB HDD,Intel Core i5 8250U 1.6GHz,AMD Radeon 530,15.6,2.2kg
+649.00,Dell,4GB,1TB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,13.3,1.71kg
+589.52,Dell,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,AMD Radeon R7 M445,15.6,2.32kg
+489.00,HP,4GB,1TB HDD,AMD A9-Series 9420 3GHz,AMD Radeon 520,15.6,2.1kg
+1935.00,Acer,16GB,128GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 1060,17.3,4.2kg
+649.00,Dell,12GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.25kg
+650.00,HP,6GB,128GB SSD +  1TB HDD,AMD A9-Series A9-9420 3GHz,AMD Radeon 520,15.6,2.1kg
+559.00,Acer,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.4kg
+960.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.44kg
+779.00,Lenovo,4GB,1TB HDD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,1.85kg
+2419.00,HP,16GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia Quadro M2200,15.6,2.6kg
+659.00,Dell,8GB,1TB HDD,Intel Core i5 8250U 1.6GHz,Intel UHD Graphics 620,13.3,1.55kg
+2094.48,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,15.6,1.8kg
+410.80,Acer,4GB,500GB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2.4kg
+1207.00,Dell,8GB,128GB SSD +  1TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,15.6,2.0kg
+665.00,Dell,8GB,256GB SSD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2kg
+1535.00,Toshiba,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.25kg
+999.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.7kg
+3299.00,Lenovo,16GB,1TB SSD,Intel Core i7 7600U 2.8GHz,Nvidia Quadro M520M,15.6,2.5kg
+330.00,Acer,2GB,32GB Flash Storage,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,14,1.68kg
+1649.00,Samsung,16GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,0.81kg
+539.00,HP,8GB,256GB SSD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,1.86kg
+1126.71,Dell,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.6kg
+4389.00,HP,16GB,256GB SSD,Intel Xeon E3-1535M v5 2.9GHz,Nvidia Quadro M2000M,17.3,3kg
+475.00,Lenovo,4GB,128GB SSD,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,11.6,1.4kg
+1900.00,HP,8GB,256GB SSD,Intel Core i5 6300U 2.4GHz,Intel HD Graphics 520,15.6,1.84kg
+579.00,Asus,4GB,1TB HDD,Intel Core i5 6300HQ 2.3GHz,Nvidia GeForce GTX 950M,15.6,2.45kg
+1096.00,Lenovo,4GB,180GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.7kg
+849.90,Asus,4GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,2.37kg
+1199.00,Lenovo,8GB,256GB SSD,Intel Core i5 6260U 1.8GHz,Intel HD Graphics 540,13.3,1.3kg
+1099.00,HP,8GB,128GB SSD +  1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.2kg
+1561.00,HP,8GB,256GB SSD,Intel Core i7 6700HQ 2.6GHz,Nvidia Quadro M1000M,15.6,2.59kg
+2868.99,Dell,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,15.6,4.42kg
+599.00,Acer,4GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.1kg
+1048.00,Lenovo,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.5kg
+1859.00,Dell,16GB,256GB SSD,Intel Core i7 7600U 2.8GHz,Intel HD Graphics 620,12.5,1.18kg
+1559.00,Google,8GB,256GB SSD,Intel Core i5 7Y57 1.2GHz,Intel HD Graphics 615,12.3,1.1kg
+1129.00,Asus,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.2kg
+849.00,Dell,4GB,500GB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,13.3,1.65kg
+655.00,Acer,4GB,128GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,13.3,1.6kg
+470.34,Asus,4GB,1TB HDD,Intel Pentium Quad Core N4200 1.1GHz,Nvidia GeForce 920MX,17.3,2.8kg
+1099.00,Dell,16GB,128GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 960M,15.6,2.72kg
+1599.00,Samsung,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.31kg
+298.00,Acer,4GB,1TB HDD,Intel Pentium Quad Core N4200 1.1GHz,Intel HD Graphics 505,15.6,2.1kg
+1181.27,Dell,16GB,256GB SSD,Intel Core i7 7500U 2.7GHz,AMD Radeon R7 M445,15.6,2.3kg
+1799.00,Samsung,16GB,256GB SSD,Intel Core i7 7500U 2.7GHz,AMD Radeon 540,15,1.71kg
+1020.00,Toshiba,4GB,128GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.75kg
+1099.00,Dell,8GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.62kg
+1244.00,HP,4GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,12.5,1.26kg
+839.00,Asus,12GB,2TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,15.6,2.3kg
+2370.00,Lenovo,16GB,512GB SSD,Intel Core i7 6820HQ 2.7GHz,Nvidia Quadro M2000M,15.6,2.5kg
+636.00,Acer,4GB,128GB SSD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,14,1.8kg
+2899.00,Razer,16GB,512GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,14,1.95kg
+581.90,Asus,8GB,128GB SSD,Intel Pentium Dual Core N4200 1.1GHz,Intel HD Graphics 505,15.6,2kg
+3588.80,Dell,32GB,1TB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070M,17.3,4.42kg
+2350.00,Asus,16GB,256GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 1070,17.3,4.3kg
+1764.00,Toshiba,16GB,512GB SSD,Intel Core i7 6600U 2.6GHz,Nvidia GeForce 930M,14,1.47kg
+329.00,Lenovo,8GB,1TB HDD,Intel Celeron Quad Core N3710 1.6GHz,Intel HD Graphics 405,15.6,2.2kg
+2299.00,Lenovo,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.7kg
+1891.00,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,14,1.6kg
+1089.00,MSI,8GB,128GB SSD +  1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.2kg
+999.00,Lenovo,4GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.4kg
+2299.00,Acer,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,17.3,4.2kg
+985.00,Dell,8GB,256GB SSD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.62kg
+1339.00,Asus,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX1060,15.6,2.24kg
+202.90,Vero,4GB,32GB Flash Storage,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,14,1.22kg
+1970.00,Lenovo,8GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.37kg
+959.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,AMD Radeon R7 M460,15.6,2.08kg
+1165.00,Apple,8GB,512GB Flash Storage,Intel Core M 1.2GHz,Intel HD Graphics 5300,12,0.920kg
+2330.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.42kg
+299.00,Asus,4GB,32GB Flash Storage,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,14,1.63kg
+810.00,Dell,8GB,128GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.95kg
+1349.00,Lenovo,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.9,1.38kg
+739.00,Dell,8GB,256GB SSD,Intel Core i3 6006U 2GHz,AMD Radeon R5 M420X,15.6,2kg
+2064.90,HP,8GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia Quadro M2200,15.6,3.14kg
+1099.00,Asus,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.37kg
+1499.00,Dell,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.29kg
+1749.00,Dell,8GB,256GB SSD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.06kg
+744.00,Dell,4GB,128GB SSD,Intel Pentium Quad Core N4200 1.1GHz,Intel HD Graphics 505,11.6,1.63kg
+1389.00,HP,8GB,256GB SSD,Intel Core i5 7300U 2.6GHz,Intel HD Graphics 620,12.5,1.26kg
+780.00,Toshiba,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.1kg
+629.00,HP,8GB,2TB HDD,AMD A12-Series 9700P 2.5GHz,AMD Radeon R7 Graphics,15.6,2.04kg
+1679.00,Dell,16GB,512GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.62kg
+609.00,Lenovo,4GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 920M,15.6,2.4kg
+1749.00,HP,12GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,AMD Radeon RX 580,17.3,3.74kg
+2415.00,MSI,16GB,512GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,2.9kg
+1499.00,Samsung,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,0.81kg
+961.00,Dell,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce GT 940MX,15.6,1.98kg
+789.81,Dell,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,AMD Radeon R5 M420,15.6,2.18kg
+1859.00,Lenovo,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.32kg
+1799.00,Razer,16GB,512GB SSD,Intel Core i7 7500U 2.5GHz,Intel HD Graphics 620,12.5,1.29kg
+385.00,HP,4GB,16GB Flash Storage,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,11.6,1.23kg
+2505.02,Dell,16GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,17.3,4.36kg
+755.00,Dell,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.76kg
+489.90,Lenovo,4GB,500GB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2.1kg
+1090.00,Toshiba,4GB,128GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.25kg
+2499.00,Lenovo,8GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.13kg
+1199.00,MSI,8GB,256GB SSD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.4kg
+1875.00,Lenovo,8GB,256GB Flash Storage,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.13kg
+499.00,Toshiba,4GB,128GB SSD,Intel Pentium Dual Core 4405U 2.1GHz,Intel HD Graphics 510,14,1.75kg
+1358.00,Asus,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.1kg
+585.00,Dell,4GB,500GB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,14,1.76kg
+355.00,Acer,4GB,32GB Flash Storage,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,11.6,1.35kg
+619.00,Acer,8GB,128GB SSD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,14,1.5kg
+5499.00,Razer,32GB,512GB SSD,Intel Core i7 7820HK 2.9GHz,Nvidia GeForce GTX 1080,17.3,3.49kg
+2099.00,Lenovo,16GB,512GB SSD,Intel Core i7 6600U 2.6GHz,Intel HD Graphics 520,14,1.1kg
+519.00,Asus,4GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 920,15.6,2.1kg
+1186.00,Lenovo,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.7kg
+1650.00,Lenovo,8GB,256GB SSD,Intel Core i5 7300U 2.6GHz,Intel HD Graphics 620,14,1.32kg
+2774.63,Dell,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,15.6,3.21kg
+2419.00,Asus,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,2.9kg
+669.00,Toshiba,4GB,500GB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.0kg
+325.00,Lenovo,4GB,16GB Flash Storage,Intel Celeron Quad Core N3160 1.6GHz,Intel HD Graphics 400,14,1.5kg
+590.00,Asus,8GB,128GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.3kg
+1799.00,Asus,16GB,512GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 1060,17.3,2.73kg
+3072.89,Dell,32GB,512GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,4.42kg
+910.00,HP,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 930MX,17.3,2.63kg
+713.99,Dell,8GB,128GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.18kg
+1870.00,HP,8GB,512GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,14,1.54kg
+739.00,Dell,4GB,256GB SSD,Intel Core i7 7500U 2.7GHz,AMD Radeon R5 M420,15.6,2.18kg
+615.00,HP,4GB,32GB Flash Storage,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,11.6,1.4kg
+1026.00,Asus,8GB,512GB SSD,Intel Core i5 6200U 2.3GHz,Nvidia GeForce 940M,13.3,1.45kg
+2277.00,HP,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.28kg
+1468.00,HP,8GB,512GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,14,1.54kg
+299.00,HP,4GB,128GB SSD,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,15.6,1.86kg
+1899.00,Asus,16GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,15.6,2.1kg
+865.00,Dell,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,AMD Radeon R7 M445,17.3,2.83kg
+1903.00,Lenovo,8GB,256GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GT 940MX,14,1.96kg
+787.00,Asus,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce GTX 930MX,15.6,2.3kg
+945.00,Dell,8GB,128GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.9kg
+449.00,Asus,4GB,1TB HDD,Intel Pentium Quad Core N4200 1.1GHz,Intel HD Graphics 505,15.6,2kg
+2559.00,HP,8GB,256GB SSD,Intel Core i7 7600U 2.8GHz,Intel HD Graphics 620,13.3,1.28kg
+649.00,Dell,8GB,1TB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,13.3,1.62kg
+469.00,Lenovo,4GB,1TB HDD,Intel Core i3 6006U 2.0GHz,Intel HD Graphics 520,15.6,2.2kg
+850.66,Lenovo,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.3kg
+1349.00,HP,8GB,256GB SSD,Intel Core i5 7300U 2.6GHz,AMD Radeon R7 M465,15.6,1.84kg
+1285.00,Toshiba,4GB,128GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.05kg
+1017.00,Lenovo,8GB,1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.5kg
+2240.00,Dell,16GB,512GB SSD,Intel Core i7 7660U 2.5GHz,Intel Iris Plus Graphics 640,13.3,1.29kg
+910.00,HP,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.07kg
+1095.00,Toshiba,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,13.3,1.2kg
+1950.00,Lenovo,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.37kg
+902.00,Acer,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.56kg
+1778.00,Dell,8GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia Quadro M620,15.6,2.23kg
+1055.00,Lenovo,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.38kg
+479.00,Lenovo,4GB,1TB HDD,Intel Core i3 6006U 2GHz,AMD Radeon R5 M430,15.6,2.2kg
+1388.00,Toshiba,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,2.0kg
+735.00,Lenovo,4GB,180GB SSD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,13.3,1.44kg
+1849.00,Samsung,16GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,15,1.23kg
+1690.00,Dell,8GB,256GB SSD,Intel Core i7 7600U 2.8GHz,Intel HD Graphics 620,12.5,1.6kg
+398.99,Asus,4GB,1TB HDD,Intel Pentium Quad Core N4200 1.1GHz,Intel HD Graphics 505,15.6,2kg
+935.00,Xiaomi,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Nvidia GeForce 940MX,13.3,1.28kg
+912.50,Dell,4GB,128GB SSD +  1TB HDD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 940MX,15.6,2.18kg
+839.00,HP,4GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.04kg
+1700.00,HP,4GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.28kg
+684.80,HP,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.3kg
+348.00,Asus,4GB,32GB Flash Storage,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,14.1,1.65kg
+669.00,Lenovo,8GB,1TB HDD,Intel Core i7 6500U 2.5GHz,Nvidia GeForce 940MX,15.6,2.2kg
+369.00,Dell,4GB,500GB HDD,Intel Pentium Quad Core N3710 1.6GHz,Intel HD Graphics,15.6,2.2kg
+1799.00,HP,4GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.28kg
+455.70,Dell,4GB,1TB HDD,Intel Core i3 6006U 2.0GHz,AMD Radeon R5 M420X,15.6,2.18kg
+1369.90,Asus,12GB,128GB SSD +  1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,17.3,2.2kg
+297.00,Acer,4GB,32GB Flash Storage,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,11.6,1.25kg
+379.00,Lenovo,4GB,500GB HDD,AMD A4-Series 7210 2.2GHz,AMD Radeon R3,17.3,2.8kg
+1265.00,HP,4GB,128GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.95kg
+1399.00,HP,16GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.42kg
+1699.00,Samsung,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15,1.17kg
+1799.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.32kg
+2649.00,MSI,16GB,512GB SSD +  2TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 1060,17.3,2.43kg
+1475.00,Toshiba,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.05kg
+929.00,Dell,8GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050Ti,15.6,2.62kg
+900.00,HP,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 930MX,15.6,2.04kg
+614.00,Dell,4GB,1TB HDD,Intel Core i3 6006U 2.0GHz,AMD Radeon R5 M420X,15.6,2.18kg
+935.00,Dell,8GB,500GB HDD,Intel Core i5 7300U 2.6GHz,Intel HD Graphics 620,15.6,1.9kg
+2013.10,Dell,8GB,512GB SSD,Intel Core i7 7Y75 1.3GHz,Intel HD Graphics 615,13.3,1.24kg
+1279.00,Asus,32GB,256GB SSD +  256GB SSD,Intel Core i7 6820HK 2.7GHz,Nvidia GeForce GTX 980M,17.3,3.58kg
+1649.00,Dell,16GB,256GB SSD,Intel Core i7 7Y75 1.3GHz,Intel HD Graphics 615,13.3,1.22kg
+2049.00,Lenovo,8GB,256GB Flash Storage,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.13kg
+1962.99,Lenovo,8GB,512GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.95kg
+2099.00,LG,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,1.08kg
+1483.00,HP,8GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,12.5,1.26kg
+359.00,Acer,4GB,16GB Flash Storage,Intel Celeron Dual Core 3205U 1.5GHz,Intel HD Graphics,15.6,2.20kg
+789.00,Lenovo,8GB,128GB SSD +  1TB HDD,Intel Core i5 6300HQ 2.3GHz,Nvidia GeForce GTX 960M,15.6,2.6kg
+1899.00,LG,8GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,0.98kg
+1205.00,Dell,8GB,256GB SSD,Intel Core i5 7440HQ 2.8GHz,Intel HD Graphics 620,14,1.6kg
+3100.00,HP,8GB,240GB SSD,Intel Core M 6Y75 1.2GHz,Intel HD Graphics 515,12.5,1.09kg
+789.00,Lenovo,6GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,15.6,2.2kg
+1018.99,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 930MX,15.6,2.04kg
+499.00,Acer,4GB,1TB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.4kg
+881.00,Lenovo,4GB,128GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.44kg
+960.00,HP,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.49kg
+1599.00,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,17.3,2.7kg
+1349.00,Dell,16GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.6kg
+1119.91,MSI,8GB,128GB SSD +  1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.2kg
+684.99,Dell,4GB,1TB HDD,Intel Core i5 7200U 2.5GHz,AMD Radeon R5 M420,15.6,2.18kg
+1296.99,HP,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,AMD Radeon R7 M365X,15.6,1.84kg
+1149.00,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.39kg
+1975.00,Toshiba,16GB,256GB SSD,Intel Core i7 6600U 2.6GHz,Nvidia GeForce 930M,15.6,2.4kg
+1825.00,Lenovo,8GB,512GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.37kg
+729.90,Dell,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,1.95kg
+1650.00,Lenovo,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,12.5,1.36kg
+1165.00,HP,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.31kg
+708.06,Dell,4GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.18kg
+1149.00,HP,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.95kg
+309.00,Lenovo,4GB,1TB HDD,Intel Pentium Quad Core N4200 1.1GHz,Intel HD Graphics 505,15.6,2.2kg
+1579.00,HP,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,12.5,1.26kg
+288.90,HP,4GB,1TB HDD,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,15.6,1.86kg
+1799.00,Lenovo,16GB,1TB SSD,Intel Core i7 6560U 2.2GHz,Intel Iris Graphics 540,13.3,1.3kg
+1105.00,Toshiba,4GB,128GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.47kg
+1669.00,HP,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,12.5,1.26kg
+558.60,Dell,4GB,1TB HDD,Intel Core i3 6006U 2.0GHz,Intel HD Graphics 520,15.6,2.18kg
+1199.00,MSI,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.2kg
+1639.00,Dell,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.36kg
+2758.00,Dell,16GB,512GB SSD +  1TB HDD,Intel Core i7 6820HK 2.7GHz,Nvidia GeForce GTX 1080,17.3,4.36kg
+1399.00,HP,8GB,128GB SSD +  1TB HDD,Intel Core i5 6300HQ 2.3GHz,Nvidia GeForce GTX 965M,17.3,2.75kg
+530.00,Asus,4GB,1TB HDD,Intel Pentium Quad Core N3710 1.6GHz,Nvidia GeForce 920MX,17.3,2.8kg
+619.00,Acer,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.23kg
+1119.00,Toshiba,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.2kg
+1299.00,Lenovo,8GB,256GB SSD,Intel Core M m7-6Y75 1.2GHz,Intel HD Graphics 515,11.3,1.1kg
+999.00,Lenovo,16GB,512GB SSD +  1TB HDD,AMD FX 8800P 2.1GHz,AMD Radeon R9 M385,15.6,2.5kg
+1472.20,Dell,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics,12.5,1.36kg
+685.00,Lenovo,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 920MX,15.6,2.2kg
+659.00,Dell,4GB,1TB HDD,Intel Core i3 6006U 2.0GHz,AMD Radeon R7 M445,17.3,2.36kg
+349.00,Acer,4GB,32GB Flash Storage,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,14,1.68kg
+2249.00,HP,8GB,8GB SSD,Intel Core i7 6820HQ 2.7GHz,Nvidia Quadro M1000M,15.6,2.0kg
+1775.00,Dell,8GB,256GB SSD,Intel Core i7 7600U 2.8GHz,Intel HD Graphics 620,14,1.36kg
+1460.00,Toshiba,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,13.3,1.2kg
+1159.00,Asus,8GB,64GB Flash Storage,Intel Core M M7-6Y75 1.2GHz,Intel HD Graphics 515,12.5,1.2kg
+1488.99,Lenovo,8GB,256GB SSD,Intel Core i7 6600U 2.6GHz,Intel HD Graphics 520,14,1.7kg
+3154.00,Dell,16GB,512GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,4.36kg
+1899.00,Dell,8GB,256GB SSD,Intel Core i5 7Y54 1.2GHz,Intel HD Graphics 615,13.3,1.24kg
+775.00,HP,4GB,256GB SSD,Intel Pentium Quad Core N4200 1.1GHz,Intel HD Graphics 505,11.6,1.45kg
+1268.00,Dell,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,13.3,1.3kg
+389.00,Acer,4GB,32GB Flash Storage,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,11.6,1.25kg
+1535.00,Toshiba,8GB,256GB SSD,Intel Core i5 6300U 2.4GHz,Intel HD Graphics 520,13.3,1.2kg
+1760.00,Lenovo,8GB,256GB SSD,Intel Core i5 7300U 2.6GHz,Intel HD Graphics 620,12.5,1.36kg
+1009.00,Acer,12GB,128GB SSD +  1TB HDD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce GTX 950M,15.6,2.4kg
+1790.00,Toshiba,8GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,12.5,1.1kg
+846.50,HP,8GB,1TB HDD,Intel Core i5 7200U 2.50GHz,Nvidia GeForce 930MX,15.6,2.04kg
+465.62,Dell,4GB,1TB HDD,Intel Core i3 6006U 2.0GHz,AMD Radeon R5 M430,15.6,2.25kg
+825.00,Dell,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.9kg
+685.00,HP,4GB,500GB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.04kg
+3149.00,Dell,32GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,4.42kg
+695.00,Lenovo,6GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 920MX,15.6,2.4kg
+1899.00,Dell,16GB,512GB SSD,Intel Core i7 7Y75 1.3GHz,Intel HD Graphics 615,13.3,1.22kg
+1962.98,Dell,8GB,256GB SSD,Intel Core i7 6600U 2.6GHz,Intel HD Graphics 520,14,1.5kg
+2800.00,Dell,32GB,256GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 1070,17.3,4.42kg
+1180.00,Toshiba,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.95kg
+2049.90,Asus,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,17.3,2.73kg
+979.00,HP,8GB,128GB SSD +  1TB HDD,Intel Core i5 7200U 2.70GHz,Nvidia GeForce 930MX,15.6,2.04kg
+1002.00,Lenovo,4GB,508GB Hybrid,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.70kg
+1799.00,Asus,16GB,512GB SSD +  2TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce GTX 950M,15.6,2.3kg
+579.00,HP,6GB,1TB HDD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,2.04kg
+1749.00,Asus,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,17.3,2.99kg
+1299.00,Dell,12GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,2.19kg
+1195.00,Toshiba,4GB,128GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,13.3,1.2kg
+549.00,Lenovo,6GB,256GB SSD,AMD A12-Series 9720P 3.6GHz,AMD Radeon 530,15.6,2.2kg
+649.00,Fujitsu,4GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.3kg
+915.00,Toshiba,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.75kg
+599.00,Dell,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,AMD Radeon R5 M430,15.6,2.25kg
+806.00,HP,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.04kg
+1189.00,Lenovo,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,15.6,2.5kg
+749.00,Dell,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,AMD Radeon R7 M445,15.6,2.36kg
+1119.00,Dell,8GB,128GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.6kg
+1908.00,HP,8GB,512GB SSD,Intel Core M 6Y75 1.2GHz,Intel HD Graphics 515,12.5,0.97kg
+499.00,HP,4GB,128GB SSD +  1TB HDD,Intel Core i3 6006U 2GHz,AMD Radeon 520,15.6,2.1kg
+270.62,Lenovo,4GB,128GB SSD,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,15.6,1.9kg
+1349.00,Lenovo,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.3kg
+889.00,Dell,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.68kg
+1150.00,Asus,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.4kg
+1349.00,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.11kg
+380.00,Acer,4GB,500GB HDD,Intel Pentium Quad Core N4200 1.1GHz,Intel HD Graphics 505,15.6,2.4kg
+1799.00,Asus,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.5kg
+2089.00,HP,8GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,14,1.48kg
+1260.00,Acer,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.7kg
+1189.00,HP,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.34kg
+547.00,Dell,4GB,128GB SSD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.18kg
+779.00,HP,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.64kg
+1195.00,Toshiba,4GB,128GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,13.3,1.2kg
+1099.99,HP,4GB,256GB SSD,Intel Core i5 6300U 2.4GHz,Intel HD Graphics 520,14,1.48kg
+1205.00,HP,4GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.95kg
+1449.00,HP,8GB,256GB SSD,Intel Core i7 6600U 2.6GHz,Intel HD Graphics 520,14,1.43kg
+1049.26,HP,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 930MX,14,1.64kg
+684.00,HP,4GB,500GB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,14,1.64kg
+949.00,Dell,8GB,1.0TB Hybrid,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.65kg
+1539.00,HP,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,12.5,1.26kg
+1590.00,HP,4GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.48kg
+1887.21,HP,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,14,1.54kg
+800.00,HP,4GB,500GB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,13.3,1.49kg
+1210.00,Toshiba,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,13.3,1.5kg
+769.99,HP,4GB,256GB SSD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.04kg
+2968.00,Lenovo,16GB,512GB SSD,Intel Core i7 6820HQ 2.7GHz,Nvidia Quadro 3000M,17.3,2.4kg
+1490.00,Toshiba,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.47kg
+2229.00,HP,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,14,1.43kg
+795.99,Dell,4GB,1TB HDD,Intel Core i3 6100U 2.3GHz,Intel HD Graphics 520,15.6,2.08kg
+1590.00,Toshiba,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,13.3,1.2kg
+1149.00,HP,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.11kg
+1185.43,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 930MX,14,1.64kg
+1046.44,Dell,8GB,500GB HDD,Intel Core i5 6300U 2.4GHz,Intel HD Graphics 520,15.6,2.09kg
+1559.00,HP,4GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,12.5,1.26kg
+1189.00,HP,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,2.31kg
+1060.00,HP,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.95kg
+1624.00,Dell,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.29kg
+1080.00,HP,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 930MX,17.3,2.63kg
+973.00,HP,4GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.64kg
+409.00,Acer,6GB,1TB HDD,AMD A9-Series 9420 3GHz,AMD Radeon R5,15.6,2.1kg
+1191.80,MSI,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,17.3,2.7kg
+1195.00,HP,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.95kg
+1228.99,HP,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,15.6,1.84kg
+1349.00,HP,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,12.5,1.26kg
+742.00,HP,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.04kg
+1725.00,Toshiba,8GB,256GB SSD,Intel Core i7 6600U 2.6GHz,Intel HD Graphics 520,14,1.47kg
+1062.95,Dell,8GB,256GB SSD,Intel Core i5 6300U 2.4GHz,Intel HD Graphics 520,15.6,2.09kg
+1010.51,HP,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.64kg
+847.00,Lenovo,4GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,15.6,1.8kg
+210.80,Vero,2GB,32GB Flash Storage,Intel Atom X5-Z8350 1.44GHz,Intel HD Graphics 400,14,1.45kg
+1425.00,Toshiba,16GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Nvidia GeForce 930M,15.6,2.4kg
+1049.60,Lenovo,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.3kg
+1000.00,HP,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.54kg
+2103.34,HP,8GB,256GB SSD +  500GB HDD,Intel Core i5 6300U 2.4GHz,Intel HD Graphics 520,15.6,1.84kg
+1469.00,HP,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.43kg
+1545.64,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 6820HK 2.7GHz,Nvidia GeForce GTX 980M,17.3,3.78kg
+2289.99,Lenovo,16GB,128GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 980M,17.3,4.6kg
+287.90,Asus,4GB,16GB Flash Storage,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,11.6,1.2kg
+2620.00,Lenovo,16GB,256GB SSD,Intel Core i7 6600U 2.6GHz,Intel HD Graphics 520,14,1.1kg
+979.00,HP,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,15.6,1.91kg
+1094.00,Dell,8GB,256GB SSD,Intel Core i5 7200U 2.7GHz,Intel HD Graphics 620,15.6,2.3kg
+979.00,HP,4GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.04kg
+2254.00,Dell,16GB,1TB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.2kg
+705.15,HP,4GB,500GB HDD,Intel Core i3 6100U 2.3GHz,Intel HD Graphics 520,15.6,2.31kg
+499.00,HP,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.96kg
+449.00,Acer,8GB,1TB HDD,AMD A8-Series 7410 2.2GHz,AMD Radeon R5,15.6,2.4kg
+1299.00,Dell,12GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.6kg
+1819.00,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 1060,15.6,2.94kg
+1070.00,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,2.04kg
+998.00,Asus,16GB,1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 965M,17.3,4kg
+559.00,Dell,4GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics,15.6,2.25kg
+989.99,Dell,16GB,2TB HDD,Intel Core i7 7500U 2.7GHz,AMD Radeon R7 M445,15.6,2.32kg
+1929.00,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 1060,15.6,1.8kg
+1458.00,Dell,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.29kg
+3975.00,Asus,64GB,1TB SSD,Intel Core i7 6820HK 2.7GHz,Nvidia GeForce GTX 980,17.3,3.58kg
+798.01,Dell,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,13.3,1.62kg
+1329.00,Dell,16GB,256GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 970M,15.6,3.21kg
+1300.00,Apple,8GB,256GB Flash Storage,Intel Core M 1.1GHz,Intel HD Graphics 515,12,0.920kg
+481.98,Dell,4GB,500GB HDD,Intel Core i3 6100U 2.3GHz,Intel HD Graphics 520,15.6,2.06kg
+1199.00,HP,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.31kg
+1199.00,HP,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,12.5,1.26kg
+1090.00,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.49kg
+1713.49,Lenovo,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,12.5,1.3kg
+659.00,Lenovo,8GB,1.0TB HDD,Intel Core i5 6200U 2.3GHz,AMD Radeon R5 M330,17.3,3.0kg
+977.00,Lenovo,4GB,1TB HDD,Intel Core i5 6300HQ 2.3GHz,Nvidia GeForce GTX 950M,15.6,2.3kg
+2499.00,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,3.78kg
+540.00,Lenovo,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.1kg
+940.00,HP,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.31kg
+1399.00,Lenovo,8GB,512GB SSD,Intel Core M 6Y75 1.2GHz,Intel HD Graphics 515,12.5,0.99kg
+3240.00,Lenovo,32GB,512GB SSD +  1.0TB Hybrid,Intel Core i7 6820HK 2.7GHz,Nvidia GeForce GTX 980M,17.3,4.6kg
+646.27,Lenovo,4GB,64GB Flash Storage,Intel Atom x5-Z8550 1.44GHz,Intel HD Graphics 400,10.1,0.69kg
+2049.00,HP,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.3kg
+750.00,Dell,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.18kg
+1030.99,HP,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.54kg
+1495.00,HP,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,AMD FirePro W4190M,15.6,1.9kg
+1199.00,Lenovo,8GB,180GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.7kg
+615.00,HP,4GB,32GB Flash Storage,Intel Pentium Dual Core 4405Y 1.5GHz,Intel HD Graphics 515,13.3,1.29kg
+387.00,Acer,4GB,500GB HDD,AMD A8-Series 7410 2.2GHz,AMD Radeon R5,15.6,2.4kg
+393.49,Dell,4GB,500GB HDD,Intel Pentium Quad Core N3700 1.6GHz,Intel HD Graphics,15.6,2.2kg
+345.99,HP,4GB,1TB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,1.86kg
+1599.00,Asus,8GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,17.3,2.7kg
+818.35,Dell,4GB,256GB SSD,Intel Core i5 8250U 1.6GHz,AMD Radeon 530,13.3,1.4kg
+1599.00,HP,4GB,128GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,12.5,2.4kg
+799.00,Acer,8GB,256GB SSD +  1TB HDD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce GTX 950M,15.6,2.4kg
+638.80,Dell,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,AMD Radeon R7 M445,15.6,2.36kg
+1599.00,MSI,8GB,256GB SSD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 965M,17.3,2.6kg
+500.00,HP,4GB,1TB HDD,Intel Pentium Quad Core N3710 1.6GHz,Intel HD Graphics 405,15.6,1.96kg
+2299.00,Asus,16GB,128GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 980M,17.3,4.3kg
+1135.15,Dell,4GB,500GB HDD,Intel Core i3 6100U 2.3GHz,Intel HD Graphics 520,12.5,1.5kg
+1166.97,Dell,4GB,128GB SSD,Intel Core i3 6100U 2.3GHz,Intel HD Graphics 520,12.5,1.5kg
+209.00,Acer,4GB,16GB SSD,Intel Celeron Dual Core 3205U 1.5GHz,Intel HD Graphics,15.6,2.20kg
+2899.00,HP,8GB,1TB HDD,Intel Core i7 6700HQ 2.6GHz,AMD FirePro W6150M,17.3,3.0kg
+1199.00,Lenovo,16GB,512GB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.4kg
+1413.10,Dell,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,12.5,1.5kg
+1511.19,MSI,8GB,128GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 960M,17.3,2.9kg
+867.00,Lenovo,4GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.1kg
+398.00,HP,4GB,1TB HDD,AMD A6-Series 9220 2.5GHz,AMD Radeon R4,15.6,2.1kg
+1339.00,Asus,16GB,128GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 960M,15.6,2.59kg
+1699.00,HP,8GB,256GB SSD,Intel Core M 6Y54 1.1GHz,Intel HD Graphics 515,13.3,1.16kg
+769.15,Dell,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,AMD Radeon R5 M315,15.6,2.24kg
+429.00,Lenovo,4GB,128GB SSD,Intel Core i3 6006U 2.0GHz,Intel HD Graphics 520,15.6,2.1kg
+1969.00,HP,8GB,512GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,13.3,1.16kg
+549.00,Lenovo,4GB,64GB Flash Storage,Intel Atom x5-Z8550 1.44GHz,Intel HD Graphics 400,10.1,0.69kg
+1379.00,Dell,8GB,256GB SSD,Intel Core i7 7560U 2.4GHz,Intel Iris Plus Graphics 640,13.3,1.23kg
+2749.99,Lenovo,16GB,256GB SSD +  1.0TB Hybrid,Intel Core i7 6820HK 2.7GHz,Nvidia GeForce GTX 980M,17.3,4.6kg
+1029.00,Razer,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,12.5,1.25kg
+2226.00,Toshiba,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.05kg
+1312.49,Asus,8GB,128GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 960M,17.3,3.52kg
+196.00,Vero,4GB,32GB Flash Storage,Intel Atom X5-Z8350 1.44GHz,Intel HD Graphics 400,13.3,1.35kg
+1690.00,HP,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,13.3,1.16kg
+1513.00,HP,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.43kg
+523.63,Dell,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.09kg
+435.00,Asus,4GB,1TB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2kg
+1669.00,Lenovo,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,14,1.8kg
+479.00,Lenovo,4GB,64GB Flash Storage,Intel Atom x5-Z8550 1.44GHz,Intel HD Graphics 400,10.1,0.69kg
+1895.00,HP,8GB,256GB SSD,Intel Core i5 6300U 2.4GHz,Intel HD Graphics 520,12.5,1.26kg
+989.00,Lenovo,8GB,128GB SSD +  1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1060,15.6,2.4kg
+1129.00,HP,8GB,128GB SSD +  1TB HDD,Intel Core i5 6300HQ 2.3GHz,Nvidia GeForce GTX 1060,17.3,3.35kg
+629.00,HP,8GB,2TB HDD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,2.04kg
+2050.38,Lenovo,8GB,512GB SSD,Intel Core i7 6600U 2.6GHz,Nvidia Quadro M500M,14,1.8kg
+278.00,Asus,4GB,32GB Flash Storage,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,14,1.5kg
+752.00,HP,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,1.84kg
+616.00,Acer,4GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 940MX,15.6,2.23kg
+1099.00,Lenovo,16GB,1.0TB Hybrid,Intel Core i7 6500U 2.5GHz,AMD Radeon R7 M360,15.6,2.5kg
+3949.40,HP,8GB,256GB SSD,Intel Core i7 6700HQ 2.6GHz,Nvidia Quadro M3000M,17.3,3kg
+784.00,Dell,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,AMD Radeon R7 M445,15.6,2.5kg
+2399.00,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 6820HQ 2.7GHz,Nvidia GeForce GTX 980M,17.3,3.78kg
+2171.72,HP,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,15.6,1.88kg
+2440.00,Lenovo,16GB,512GB SSD,Intel Core i7 6600U 2.6GHz,Intel HD Graphics 520,14,2.8kg
+1142.80,MSI,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.4kg
+1629.00,HP,8GB,256GB SSD,Intel Core i5 6300U 2.4GHz,Intel HD Graphics 520,13.3,1.48kg
+2229.00,HP,8GB,256GB SSD,Intel Core i7 6700HQ 2.6GHz,Nvidia Quadro M1000M,15.6,2.59kg
+1799.00,HP,8GB,256GB SSD,Intel Core i7 6600U 2.6GHz,Intel HD Graphics 520,13.3,1.48kg
+1899.00,HP,8GB,256GB SSD,Intel Core i7 6700HQ 2.6GHz,Nvidia Quadro M1000M,15.6,2.0kg
+2296.95,HP,8GB,256GB SSD,Intel Core i7 6500U 2.50GHz,Intel HD Graphics 520,12.5,1.26kg
+1009.90,Dell,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,15.6,2.18kg
+1579.00,HP,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,1.88kg
+2339.00,Lenovo,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,14,1.27kg
+339.00,Lenovo,4GB,1TB HDD,Intel Core i3 6006U 2.0GHz,Intel HD Graphics 520,15.6,1.9kg
+297.00,HP,4GB,500GB HDD,AMD E-Series 7110 1.8GHz,AMD Radeon R2 Graphics,15.6,1.86kg
+599.00,Lenovo,8GB,1TB HDD,Intel Core i5 6200U 2.3GHz,AMD Radeon R5 M330,15.6,2.32kg
+1199.00,Dell,8GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050Ti,15.6,2.62kg
+2250.68,Dell,8GB,256GB SSD,Intel Core i5 6300HQ 2.3GHz,Nvidia GeForce 960M,15.6,2.04kg
+478.89,HP,4GB,256GB SSD,AMD A6-Series A6-9220 2.5GHz,AMD Radeon 520,15.6,1.91kg
+1492.80,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,17.3,2.7kg
+2299.00,Lenovo,12GB,512GB SSD,Intel Core i7 6600U 2.6GHz,Intel HD Graphics 520,14,1.4kg
+788.49,Lenovo,8GB,1.0TB Hybrid,Intel Core i5 6200U 2.3GHz,AMD Radeon R5 M330,15.6,2.5kg
+2041.00,HP,8GB,512GB SSD,Intel Core i7 6600U 2.6GHz,Intel HD Graphics 520,13.3,1.48kg
+1499.00,Lenovo,8GB,256GB SSD,Intel Core i7 6600U 2.6GHz,Intel HD Graphics 520,14,1.7kg
+1769.00,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 970M,14,1.7kg
+899.00,HP,8GB,1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.62kg
+459.00,Lenovo,8GB,1TB HDD,Intel Core i3 6006U 2.0GHz,Intel HD Graphics 520,15.6,2.2kg
+476.99,HP,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.1kg
+1498.00,Dell,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.62kg
+1390.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.95kg
+468.00,Lenovo,4GB,1TB HDD,Intel Core i3 6006U 2GHz,Nvidia GeForce 920MX,15.6,2.2kg
+249.00,HP,2GB,32GB Flash Storage,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,14,1.44kg
+839.00,MSI,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce GTX 1050,15.6,2.2kg
+679.00,HP,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,15.6,1.96kg
+1159.00,HP,16GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,15.6,2.1kg
+369.00,Asus,4GB,500GB HDD,Intel Celeron Dual Core N3050 1.6GHz,Intel HD Graphics,15.6,2.2kg
+398.00,Lenovo,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.1kg
+709.00,Lenovo,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,15.6,2.2kg
+769.00,Asus,4GB,256GB SSD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,14,2kg
+825.00,Lenovo,4GB,1.0TB Hybrid,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,15.6,2.32kg
+1305.00,Lenovo,16GB,512GB SSD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 960,15.6,3.31kg
+2153.37,MSI,16GB,128GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 970M,15.6,1.91kg
+650.00,HP,4GB,500GB HDD,Intel Core i3 6100U 2.3GHz,Intel HD Graphics 520,15.6,2.07kg
+1637.00,Lenovo,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.36kg
+831.00,Lenovo,6GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 920M,15.6,1.54kg
+895.01,Dell,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce GT 940MX,15.6,1.98kg
+333.00,Acer,4GB,500GB HDD,Intel Celeron Dual Core N3350 2GHz,Intel HD Graphics 500,15.6,2.1kg
+799.00,HP,6GB,1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 960M,15.6,2.18kg
+909.00,Asus,8GB,256GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 960M,15.6,2.591kg
+1179.00,Dell,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,15.6,2.09kg
+691.00,Acer,4GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Nvidia GeForce 940MX,15.6,2.23kg
+1099.00,Dell,8GB,256GB SSD,Intel Core i5 6300U 2.4GHz,Intel HD Graphics 520,13.3,1.23kg
+2599.00,Acer,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,17.3,4.2kg
+819.00,Lenovo,8GB,1TB HDD,Intel Core i5 7300HQ 2.5GHz,Nvidia GeForce GTX 1050,15.6,2.4kg
+659.00,Samsung,4GB,32GB Flash Storage,Samsung Cortex A72&A53 2.0GHz,ARM Mali T860 MP4,12.3,1.15kg
+485.00,HP,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.86kg
+1163.00,Apple,8GB,256GB Flash Storage,Intel Core M 1.1GHz,Intel HD Graphics 5300,12,0.920kg
+1199.00,Dell,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,13.3,1.6kg
+1327.00,HP,12GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.21kg
+368.00,Lenovo,4GB,1TB HDD,Intel Core i3 6006U 2GHz,AMD Radeon R5 M430,15.6,1.9kg
+2150.00,Asus,16GB,512GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 980M,17.3,4.3kg
+272.00,Acer,4GB,1TB HDD,Intel Celeron Dual Core N3350 2GHz,Intel HD Graphics 500,15.6,2.1kg
+2048.90,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,17.3,2.43kg
+499.00,Dell,4GB,128GB SSD,Intel Core i3 6006U 2.0GHz,AMD Radeon R7 M440,15.6,2.3kg
+629.00,Lenovo,8GB,500GB HDD,Intel Core i7 6500U 2.5GHz,Nvidia GeForce 920MX,15.6,2.2kg
+1285.00,Dell,16GB,512GB SSD,Intel Core i7 8550U 1.8GHz,Intel UHD Graphics 620,15.6,2kg
+2680.00,Dell,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.2kg
+1169.00,Asus,8GB,1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 1060,15.6,2.2kg
+889.00,Dell,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,AMD Radeon R7 M445,15.6,2.36kg
+579.00,HP,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,1.91kg
+299.00,Lenovo,4GB,500GB HDD,AMD E-Series 9000 2.2GHz,AMD Radeon R2 Graphics,15.6,2.2kg
+629.00,Acer,8GB,1TB HDD,Intel Core i3 6006U 2.0GHz,Nvidia GeForce 940MX,17.3,3.3kg
+2449.00,Asus,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1070,15.6,2.2kg
+1279.00,Apple,8GB,512GB Flash Storage,Intel Core M 1.2GHz,Intel HD Graphics 515,12,0.920kg
+1749.00,Asus,16GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,15.6,2.2kg
+1948.99,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 1060,17.3,2.43kg
+999.00,Dell,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.191kg
+1949.00,Asus,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,17.3,2.9kg
+174.00,Acer,2GB,32GB SSD,Intel Celeron Dual Core 3205U 1.5GHz,Intel HD Graphics,11.6,1.3kg
+598.00,Acer,4GB,1TB HDD,Intel Core i3 6006U 2GHz,Nvidia GeForce 940MX,17.3,3.3kg
+539.00,Lenovo,8GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,17.3,2.8kg
+1272.00,Lenovo,8GB,128GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 960<U+039C>,15.6,2.6kg
+1149.00,Acer,8GB,256GB SSD,Intel Core i7 7Y75 1.3GHz,Intel HD Graphics 615,14,1.2kg
+1529.00,Lenovo,8GB,256GB SSD,Intel Core i7 6600U 2.6GHz,Intel HD Graphics 520,15.6,2.3kg
+1476.11,MSI,8GB,128GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 1060,15.6,2.2kg
+529.00,HP,6GB,1TB HDD,AMD A12-Series 9720P 2.7GHz,AMD Radeon 530,15.6,2.1kg
+1713.37,Dell,8GB,256GB SSD,Intel Core i5 6300U 2.4GHz,Intel HD Graphics 520,12.5,1.26kg
+509.00,Dell,4GB,500GB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15,2.08kg
+309.00,Asus,4GB,1TB HDD,Intel Pentium Quad Core N3710 1.6GHz,Intel HD Graphics 405,15.6,2.65kg
+1477.00,Dell,8GB,256GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.29kg
+521.86,Dell,4GB,1TB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 520,15.6,2.18kg
+1029.00,Lenovo,16GB,128GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 960M,15.6,2.6kg
+1149.00,MSI,8GB,128GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050,15.6,2.2kg
+1650.00,Lenovo,16GB,512GB SSD,Intel Core i7 6500U 2.50GHz,Intel HD Graphics 520,12.5,1.3kg
+3499.00,Razer,16GB,1TB SSD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,14,1.95kg
+469.01,Dell,8GB,1TB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.3kg
+1598.00,MSI,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1060,17.3,2.7kg
+959.00,Apple,4GB,256GB Flash Storage,Intel Core i5 1.6GHz,Intel HD Graphics 6000,11.6,1.08kg
+478.00,HP,4GB,1TB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2.1kg
+2198.19,HP,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,14,1.54kg
+737.00,Dell,4GB,500GB HDD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,15.6,2.24kg
+1169.00,MSI,8GB,128GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 960M,15.6,2.3kg
+1499.00,Lenovo,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Intel HD Graphics 620,13.3,1.4kg
+597.57,Lenovo,6GB,256GB SSD,AMD A12-Series 9720P 3.6GHz,AMD Radeon 530,15.6,2.2kg
+1280.00,Asus,8GB,256GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,13.3,1.45kg
+361.80,Acer,4GB,500GB HDD,Intel Core i3 6006U 2.0GHz,Intel HD Graphics 520,15.6,2.4kg
+1799.00,Dell,16GB,512GB SSD,Intel Core i7 7500U 2.7GHz,Nvidia GeForce 940MX,17.3,2.77kg
+1099.99,HP,4GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.54kg
+1600.00,Asus,16GB,256GB SSD +  1TB HDD,Intel Core i7 7700HQ 2.8GHz,Nvidia GeForce GTX 1050 Ti,15.6,2.5kg
+875.00,Dell,4GB,500GB HDD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,14,1.6kg
+2325.00,Asus,16GB,256GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 1070,15.6,2.34kg
+573.00,Lenovo,8GB,256GB SSD,Intel Core i5 7200U 2.5GHz,Intel HD Graphics 620,15.6,2.3kg
+1813.00,Dell,8GB,256GB SSD,Intel Core i5 7Y54 1.2GHz,Intel HD Graphics 615,13.3,1.24kg
+324.00,Dell,4GB,500GB HDD,Intel Pentium Quad Core N3710 1.6GHz,Intel HD Graphics,15.6,2.2kg
+399.00,HP,4GB,500GB HDD,AMD A6-Series 9220 2.5GHz,AMD Radeon R4 Graphics,15.6,1.86kg
+569.00,Lenovo,6GB,128GB SSD,Intel Core i3 6100U 2.3GHz,Nvidia GeForce 920MX,15.6,2.4kg
+1072.00,Lenovo,8GB,256GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.9kg
+443.99,Dell,4GB,500GB HDD,Intel Pentium Quad Core N3700 1.6GHz,Intel HD Graphics,15.6,2.2kg
+339.00,Asus,4GB,1TB HDD,Intel Celeron Dual Core N3350 1.1GHz,Intel HD Graphics 500,15.6,2kg
+1900.00,Asus,16GB,128GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 970M,17.3,4.0kg
+490.00,Dell,4GB,500GB HDD,Intel Core i3 6006U 2GHz,Intel HD Graphics 520,15.6,2.29kg
+895.00,Lenovo,8GB,1.0TB Hybrid,Intel Core i7 6500U 2.5GHz,AMD Radeon R5 M330,15.6,2.32kg
+1229.00,MSI,8GB,128GB SSD +  1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 960M,15.6,2.4kg
+833.01,Lenovo,4GB,128GB SSD,Intel Core i5 6200U 2.3GHz,Intel HD Graphics 520,14,1.8kg
+729.00,Asus,8GB,512GB SSD,Intel Core M 6Y30 0.9GHz,Intel HD Graphics 515,13.3,1.2kg
+459.00,Dell,6GB,1TB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.3kg
+289.00,Acer,4GB,500GB HDD,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,15.6,2.4kg
+379.00,Dell,2GB,500GB HDD,Intel Celeron Dual Core N3050 1.6GHz,Intel HD Graphics,15.6,2.20kg
+899.00,Lenovo,8GB,1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 960M,15.6,2.6kg
+549.99,HP,6GB,1.0TB Hybrid,AMD A9-Series 9410 2.9GHz,AMD Radeon R7 M440,15.6,2.04kg
+805.99,Dell,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,AMD Radeon R5 M430,15.6,2.3kg
+209.00,HP,2GB,32GB Flash Storage,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,11.6,1.17kg
+720.32,Asus,4GB,500GB HDD,Intel Core i7 6500U 2.5GHz,Nvidia GeForce 920M,15.6,2.2kg
+638.00,Lenovo,4GB,128GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,14,1.8kg
+1499.00,Lenovo,16GB,512GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,13.3,1.3kg
+229.00,Lenovo,2GB,64GB Flash Storage,Intel Celeron Dual Core N3050 1.6GHz,Intel HD Graphics,14,1.5kg
+764.00,HP,6GB,1TB HDD,Intel Core i7 6500U 2.5GHz,AMD Radeon R5 M330,15.6,2.19kg
+369.00,Asus,4GB,500GB HDD,Intel Celeron Dual Core N3050 1.6GHz,Intel HD Graphics,15.6,2.2kg
+729.00,Asus,8GB,512GB SSD,Intel Core M 6Y30 0.9GHz,Intel HD Graphics 515,13.3,1.2kg
+459.00,Dell,6GB,1TB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.3kg
+289.00,Acer,4GB,500GB HDD,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,15.6,2.4kg
+379.00,Dell,2GB,500GB HDD,Intel Celeron Dual Core N3050 1.6GHz,Intel HD Graphics,15.6,2.20kg
+899.00,Lenovo,8GB,1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 960M,15.6,2.6kg
+549.99,HP,6GB,1.0TB Hybrid,AMD A9-Series 9410 2.9GHz,AMD Radeon R7 M440,15.6,2.04kg
+805.99,Dell,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,AMD Radeon R5 M430,15.6,2.3kg
+209.00,HP,2GB,32GB Flash Storage,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,11.6,1.17kg
+720.32,Asus,4GB,500GB HDD,Intel Core i7 6500U 2.5GHz,Nvidia GeForce 920M,15.6,2.2kg
+638.00,Lenovo,4GB,128GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,14,1.8kg
+1499.00,Lenovo,16GB,512GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,13.3,1.3kg
+229.00,Lenovo,2GB,64GB Flash Storage,Intel Celeron Dual Core N3050 1.6GHz,Intel HD Graphics,14,1.5kg
+764.00,HP,6GB,1TB HDD,Intel Core i7 6500U 2.5GHz,AMD Radeon R5 M330,15.6,2.19kg
+369.00,Asus,4GB,500GB HDD,Intel Celeron Dual Core N3050 1.6GHz,Intel HD Graphics,15.6,2.2kg
+729.00,Asus,8GB,512GB SSD,Intel Core M 6Y30 0.9GHz,Intel HD Graphics 515,13.3,1.2kg
+459.00,Dell,6GB,1TB HDD,Intel Core i3 7100U 2.4GHz,Intel HD Graphics 620,15.6,2.3kg
+289.00,Acer,4GB,500GB HDD,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,15.6,2.4kg
+379.00,Dell,2GB,500GB HDD,Intel Celeron Dual Core N3050 1.6GHz,Intel HD Graphics,15.6,2.20kg
+899.00,Lenovo,8GB,1TB HDD,Intel Core i7 6700HQ 2.6GHz,Nvidia GeForce GTX 960M,15.6,2.6kg
+549.99,HP,6GB,1.0TB Hybrid,AMD A9-Series 9410 2.9GHz,AMD Radeon R7 M440,15.6,2.04kg
+805.99,Dell,8GB,1TB HDD,Intel Core i7 7500U 2.7GHz,AMD Radeon R5 M430,15.6,2.3kg
+209.00,HP,2GB,32GB Flash Storage,Intel Celeron Dual Core N3060 1.6GHz,Intel HD Graphics 400,11.6,1.17kg
+720.32,Asus,4GB,500GB HDD,Intel Core i7 6500U 2.5GHz,Nvidia GeForce 920M,15.6,2.2kg
+638.00,Lenovo,4GB,128GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,14,1.8kg
+1499.00,Lenovo,16GB,512GB SSD,Intel Core i7 6500U 2.5GHz,Intel HD Graphics 520,13.3,1.3kg
+229.00,Lenovo,2GB,64GB Flash Storage,Intel Celeron Dual Core N3050 1.6GHz,Intel HD Graphics,14,1.5kg
+764.00,HP,6GB,1TB HDD,Intel Core i7 6500U 2.5GHz,AMD Radeon R5 M330,15.6,2.19kg
+369.00,Asus,4GB,500GB HDD,Intel Celeron Dual Core N3050 1.6GHz,Intel HD Graphics,15.6,2.2kg
